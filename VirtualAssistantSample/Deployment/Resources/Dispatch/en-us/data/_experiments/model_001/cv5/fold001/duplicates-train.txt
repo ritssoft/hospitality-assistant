@@ -1,0 +1,14 @@
+Utterance	Intents
+perfect	l_General, q_Chitchat
+go away	l_General, q_Chitchat
+fine	l_General, q_Chitchat
+be quiet	l_General, q_Chitchat
+stop talking	l_General, q_Chitchat
+shut up	l_General, q_Chitchat
+not at all	l_General, q_Chitchat
+great	l_General, q_Chitchat
+forget about it	l_General, q_Chitchat
+okay	l_General, q_Chitchat
+right	l_General, q_Chitchat
+sounds good	l_General, q_Chitchat
+not even close	l_General, q_Chitchat

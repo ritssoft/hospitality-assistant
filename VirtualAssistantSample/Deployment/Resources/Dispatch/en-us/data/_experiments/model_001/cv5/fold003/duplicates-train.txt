@@ -1,0 +1,15 @@
+Utterance	Intents
+that is right	l_General, q_Chitchat
+yes	l_General, q_Chitchat
+go away	l_General, q_Chitchat
+sorry	l_General, q_Chitchat
+quiet	l_General, q_Chitchat
+stop talking	l_General, q_Chitchat
+shut up	l_General, q_Chitchat
+not at all	l_General, q_Chitchat
+great	l_General, q_Chitchat
+forget about it	l_General, q_Chitchat
+right	l_General, q_Chitchat
+not even close	l_General, q_Chitchat
+pardon	l_General, q_Chitchat
+sounds great	l_General, q_Chitchat

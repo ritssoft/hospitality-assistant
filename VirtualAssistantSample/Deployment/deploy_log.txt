@@ -1,0 +1,619 @@
+AZ CLI passes minimum version. Current version is 2.23.0
+{
+  "error": null,
+  "id": "/subscriptions/389678db-6331-4c2c-8567-4af47f22b1d6/resourceGroups/MSChatBotTachyon/providers/Microsoft.Resources/deployments/deployment_dry_run",
+  "name": "deployment_dry_run",
+  "properties": {
+    "correlationId": "4252c564-6ed3-4262-ae6e-963ebbd925a3",
+    "debugSetting": null,
+    "dependencies": [
+      {
+        "dependsOn": [
+          {
+            "id": "/subscriptions/389678db-6331-4c2c-8567-4af47f22b1d6/resourceGroups/MSChatBotTachyon/providers/Microsoft.Web/serverfarms/chatbottachyon-jgimfhn",
+            "resourceGroup": "MSChatBotTachyon",
+            "resourceName": "chatbottachyon-jgimfhn",
+            "resourceType": "Microsoft.Web/serverfarms"
+          }
+        ],
+        "id": "/subscriptions/389678db-6331-4c2c-8567-4af47f22b1d6/resourceGroups/MSChatBotTachyon/providers/Microsoft.Web/sites/chatbottachyon-jgimfhn",
+        "resourceGroup": "MSChatBotTachyon",
+        "resourceName": "chatbottachyon-jgimfhn",
+        "resourceType": "Microsoft.Web/sites"
+      },
+      {
+        "dependsOn": [
+          {
+            "id": "/subscriptions/389678db-6331-4c2c-8567-4af47f22b1d6/resourceGroups/MSChatBotTachyon/providers/Microsoft.Web/sites/chatbottachyon-jgimfhn",
+            "resourceGroup": "MSChatBotTachyon",
+            "resourceName": "chatbottachyon-jgimfhn",
+            "resourceType": "Microsoft.Web/sites"
+          },
+          {
+            "id": "/subscriptions/389678db-6331-4c2c-8567-4af47f22b1d6/resourceGroups/MSChatBotTachyon/providers/Microsoft.Insights/components/chatbottachyon-jgimfhn",
+            "resourceGroup": "MSChatBotTachyon",
+            "resourceName": "chatbottachyon-jgimfhn",
+            "resourceType": "Microsoft.Insights/components"
+          }
+        ],
+        "id": "/subscriptions/389678db-6331-4c2c-8567-4af47f22b1d6/resourceGroups/MSChatBotTachyon/providers/Microsoft.BotService/botServices/chatbottachyon-jgimfhn",
+        "resourceGroup": "MSChatBotTachyon",
+        "resourceName": "chatbottachyon-jgimfhn",
+        "resourceType": "Microsoft.BotService/botServices"
+      },
+      {
+        "dependsOn": [
+          {
+            "id": "/subscriptions/389678db-6331-4c2c-8567-4af47f22b1d6/resourceGroups/MSChatBotTachyon/providers/Microsoft.CognitiveServices/accounts/chatbottachyon-luisruntime-jgimfhn",
+            "resourceGroup": "MSChatBotTachyon",
+            "resourceName": "chatbottachyon-luisruntime-jgimfhn",
+            "resourceType": "Microsoft.CognitiveServices/accounts"
+          }
+        ],
+        "id": "/subscriptions/389678db-6331-4c2c-8567-4af47f22b1d6/resourceGroups/MSChatBotTachyon/providers/Microsoft.CognitiveServices/accounts/chatbottachyon-luisauthoring-jgimfhn",
+        "resourceGroup": "MSChatBotTachyon",
+        "resourceName": "chatbottachyon-luisauthoring-jgimfhn",
+        "resourceType": "Microsoft.CognitiveServices/accounts"
+      },
+      {
+        "dependsOn": [
+          {
+            "id": "/subscriptions/389678db-6331-4c2c-8567-4af47f22b1d6/resourceGroups/MSChatBotTachyon/providers/Microsoft.Web/Sites/chatbottachyon-qnahost-jgimfhn",
+            "resourceGroup": "MSChatBotTachyon",
+            "resourceName": "chatbottachyon-qnahost-jgimfhn",
+            "resourceType": "Microsoft.Web/Sites"
+          },
+          {
+            "id": "/subscriptions/389678db-6331-4c2c-8567-4af47f22b1d6/resourceGroups/MSChatBotTachyon/providers/Microsoft.Search/searchServices/chatbottachyon-search-jgimfhn",
+            "resourceGroup": "MSChatBotTachyon",
+            "resourceName": "chatbottachyon-search-jgimfhn",
+            "resourceType": "Microsoft.Search/searchServices"
+          },
+          {
+            "id": "/subscriptions/389678db-6331-4c2c-8567-4af47f22b1d6/resourceGroups/MSChatBotTachyon/providers/microsoft.insights/components/chatbottachyon-jgimfhn",
+            "resourceGroup": "MSChatBotTachyon",
+            "resourceName": "chatbottachyon-jgimfhn",
+            "resourceType": "microsoft.insights/components"
+          }
+        ],
+        "id": "/subscriptions/389678db-6331-4c2c-8567-4af47f22b1d6/resourceGroups/MSChatBotTachyon/providers/Microsoft.CognitiveServices/accounts/chatbottachyon-qna-jgimfhn",
+        "resourceGroup": "MSChatBotTachyon",
+        "resourceName": "chatbottachyon-qna-jgimfhn",
+        "resourceType": "Microsoft.CognitiveServices/accounts"
+      },
+      {
+        "dependsOn": [
+          {
+            "id": "/subscriptions/389678db-6331-4c2c-8567-4af47f22b1d6/resourceGroups/MSChatBotTachyon/providers/Microsoft.Web/serverFarms/chatbottachyon-jgimfhn",
+            "resourceGroup": "MSChatBotTachyon",
+            "resourceName": "chatbottachyon-jgimfhn",
+            "resourceType": "Microsoft.Web/serverFarms"
+          }
+        ],
+        "id": "/subscriptions/389678db-6331-4c2c-8567-4af47f22b1d6/resourceGroups/MSChatBotTachyon/providers/Microsoft.Web/sites/chatbottachyon-qnahost-jgimfhn",
+        "resourceGroup": "MSChatBotTachyon",
+        "resourceName": "chatbottachyon-qnahost-jgimfhn",
+        "resourceType": "Microsoft.Web/sites"
+      },
+      {
+        "dependsOn": [
+          {
+            "id": "/subscriptions/389678db-6331-4c2c-8567-4af47f22b1d6/resourceGroups/MSChatBotTachyon/providers/Microsoft.Web/Sites/chatbottachyon-qnahost-jgimfhn",
+            "resourceGroup": "MSChatBotTachyon",
+            "resourceName": "chatbottachyon-qnahost-jgimfhn",
+            "resourceType": "Microsoft.Web/Sites"
+          },
+          {
+            "id": "/subscriptions/389678db-6331-4c2c-8567-4af47f22b1d6/resourceGroups/MSChatBotTachyon/providers/Microsoft.Insights/components/chatbottachyon-jgimfhn",
+            "resourceGroup": "MSChatBotTachyon",
+            "resourceName": "chatbottachyon-jgimfhn",
+            "resourceType": "Microsoft.Insights/components"
+          },
+          {
+            "id": "/subscriptions/389678db-6331-4c2c-8567-4af47f22b1d6/resourceGroups/MSChatBotTachyon/providers/Microsoft.Search/searchServices/chatbottachyon-search-jgimfhn",
+            "resourceGroup": "MSChatBotTachyon",
+            "resourceName": "chatbottachyon-search-jgimfhn",
+            "resourceType": "Microsoft.Search/searchServices"
+          },
+          {
+            "actionName": "listAdminKeys",
+            "apiVersion": "2015-08-19",
+            "id": "/subscriptions/389678db-6331-4c2c-8567-4af47f22b1d6/resourceGroups/MSChatBotTachyon/providers/Microsoft.Search/searchServices/chatbottachyon-search-jgimfhn",
+            "resourceGroup": "MSChatBotTachyon",
+            "resourceName": "chatbottachyon-search-jgimfhn",
+            "resourceType": "Microsoft.Search/searchServices"
+          },
+          {
+            "apiVersion": "2015-05-01",
+            "id": "/subscriptions/389678db-6331-4c2c-8567-4af47f22b1d6/resourceGroups/MSChatBotTachyon/providers/Microsoft.Insights/components/chatbottachyon-jgimfhn",
+            "resourceGroup": "MSChatBotTachyon",
+            "resourceName": "chatbottachyon-jgimfhn",
+            "resourceType": "Microsoft.Insights/components"
+          }
+        ],
+        "id": "/subscriptions/389678db-6331-4c2c-8567-4af47f22b1d6/resourceGroups/MSChatBotTachyon/providers/Microsoft.Web/sites/chatbottachyon-qnahost-jgimfhn/config/appsettings",
+        "resourceGroup": "MSChatBotTachyon",
+        "resourceName": "chatbottachyon-qnahost-jgimfhn/appsettings",
+        "resourceType": "Microsoft.Web/sites/config"
+      }
+    ],
+    "duration": "PT0S",
+    "error": null,
+    "mode": "Incremental",
+    "onErrorDeployment": null,
+    "outputResources": null,
+    "outputs": null,
+    "parameters": {
+      "appInsightsLocation": {
+        "type": "String",
+        "value": "westus"
+      },
+      "appInsightsName": {
+        "type": "String",
+        "value": "chatbottachyon-jgimfhn"
+      },
+      "appServicePlanName": {
+        "type": "String",
+        "value": "chatbottachyon-jgimfhn"
+      },
+      "appServicePlanSku": {
+        "type": "Object",
+        "value": {
+          "name": "S1",
+          "tier": "Standard"
+        }
+      },
+      "botServiceName": {
+        "type": "String",
+        "value": "chatbottachyon-jgimfhn"
+      },
+      "botServiceSku": {
+        "type": "String",
+        "value": "S1"
+      },
+      "botWebAppName": {
+        "type": "String",
+        "value": "chatbottachyon-jgimfhn"
+      },
+      "contentModeratorLocation": {
+        "type": "String",
+        "value": "westus"
+      },
+      "contentModeratorName": {
+        "type": "String",
+        "value": "chatbottachyon-cm-jgimfhn"
+      },
+      "contentModeratorSku": {
+        "type": "String",
+        "value": "S0"
+      },
+      "cosmosDbName": {
+        "type": "String",
+        "value": "chatbottachyon-jgimfhn"
+      },
+      "location": {
+        "type": "String",
+        "value": "westus"
+      },
+      "luisAuthoringLocation": {
+        "type": "String",
+        "value": "westus"
+      },
+      "luisAuthoringName": {
+        "type": "String",
+        "value": "chatbottachyon-luisauthoring-jgimfhn"
+      },
+      "luisAuthoringSku": {
+        "type": "String",
+        "value": "F0"
+      },
+      "luisRuntimeLocation": {
+        "type": "String",
+        "value": "westus"
+      },
+      "luisRuntimeName": {
+        "type": "String",
+        "value": "chatbottachyon-luisruntime-jgimfhn"
+      },
+      "luisRuntimeSku": {
+        "type": "String",
+        "value": "S0"
+      },
+      "microsoftAppId": {
+        "type": "String",
+        "value": "60da8c77-4f77-4e04-b4ac-52290c1cd773"
+      },
+      "microsoftAppPassword": {
+        "type": "String",
+        "value": "32mxGKi_Yl8Ev-21pD_exRXt-W3V.sUEb1"
+      },
+      "name": {
+        "type": "String",
+        "value": "chatbottachyon"
+      },
+      "qnaMakerSearchLocation": {
+        "type": "String",
+        "value": "westus"
+      },
+      "qnaMakerSearchName": {
+        "type": "String",
+        "value": "chatbottachyon-search-jgimfhn"
+      },
+      "qnaMakerSearchSku": {
+        "type": "String",
+        "value": "standard"
+      },
+      "qnaMakerServiceLocation": {
+        "type": "String",
+        "value": "westus"
+      },
+      "qnaMakerServiceName": {
+        "type": "String",
+        "value": "chatbottachyon-qna-jgimfhn"
+      },
+      "qnaMakerServiceSku": {
+        "type": "String",
+        "value": "S0"
+      },
+      "qnaMakerWebAppLocation": {
+        "type": "String",
+        "value": "westus"
+      },
+      "qnaMakerWebAppName": {
+        "type": "String",
+        "value": "chatbottachyon-qnahost-jgimfhn"
+      },
+      "resourceTagName": {
+        "type": "String",
+        "value": "bot"
+      },
+      "resourceTagValue": {
+        "type": "String",
+        "value": "chatbottachyon-jgimfhn"
+      },
+      "storageAccountName": {
+        "type": "String",
+        "value": "chatbottachyon-jgimfhn"
+      },
+      "suffix": {
+        "type": "String",
+        "value": "jgimfhn"
+      },
+      "useContentModerator": {
+        "type": "Bool",
+        "value": true
+      },
+      "useCosmosDb": {
+        "type": "Bool",
+        "value": true
+      },
+      "useLuisAuthoring": {
+        "type": "Bool",
+        "value": true
+      },
+      "useStorage": {
+        "type": "Bool",
+        "value": true
+      }
+    },
+    "parametersLink": null,
+    "providers": [
+      {
+        "id": null,
+        "namespace": "Microsoft.Resources",
+        "registrationPolicy": null,
+        "registrationState": null,
+        "resourceTypes": [
+          {
+            "aliases": null,
+            "apiProfiles": null,
+            "apiVersions": null,
+            "capabilities": null,
+            "defaultApiVersion": null,
+            "locationMappings": null,
+            "locations": [
+              null
+            ],
+            "properties": null,
+            "resourceType": "deployments"
+          }
+        ]
+      },
+      {
+        "id": null,
+        "namespace": "Microsoft.DocumentDB",
+        "registrationPolicy": null,
+        "registrationState": null,
+        "resourceTypes": [
+          {
+            "aliases": null,
+            "apiProfiles": null,
+            "apiVersions": null,
+            "capabilities": null,
+            "defaultApiVersion": null,
+            "locationMappings": null,
+            "locations": [
+              "westus"
+            ],
+            "properties": null,
+            "resourceType": "databaseAccounts"
+          }
+        ]
+      },
+      {
+        "id": null,
+        "namespace": "Microsoft.Storage",
+        "registrationPolicy": null,
+        "registrationState": null,
+        "resourceTypes": [
+          {
+            "aliases": null,
+            "apiProfiles": null,
+            "apiVersions": null,
+            "capabilities": null,
+            "defaultApiVersion": null,
+            "locationMappings": null,
+            "locations": [
+              "westus"
+            ],
+            "properties": null,
+            "resourceType": "storageAccounts"
+          }
+        ]
+      },
+      {
+        "id": null,
+        "namespace": "Microsoft.Web",
+        "registrationPolicy": null,
+        "registrationState": null,
+        "resourceTypes": [
+          {
+            "aliases": null,
+            "apiProfiles": null,
+            "apiVersions": null,
+            "capabilities": null,
+            "defaultApiVersion": null,
+            "locationMappings": null,
+            "locations": [
+              "westus"
+            ],
+            "properties": null,
+            "resourceType": "serverFarms"
+          },
+          {
+            "aliases": null,
+            "apiProfiles": null,
+            "apiVersions": null,
+            "capabilities": null,
+            "defaultApiVersion": null,
+            "locationMappings": null,
+            "locations": [
+              "westus"
+            ],
+            "properties": null,
+            "resourceType": "sites"
+          },
+          {
+            "aliases": null,
+            "apiProfiles": null,
+            "apiVersions": null,
+            "capabilities": null,
+            "defaultApiVersion": null,
+            "locationMappings": null,
+            "locations": [
+              null
+            ],
+            "properties": null,
+            "resourceType": "sites/config"
+          }
+        ]
+      },
+      {
+        "id": null,
+        "namespace": "Microsoft.Insights",
+        "registrationPolicy": null,
+        "registrationState": null,
+        "resourceTypes": [
+          {
+            "aliases": null,
+            "apiProfiles": null,
+            "apiVersions": null,
+            "capabilities": null,
+            "defaultApiVersion": null,
+            "locationMappings": null,
+            "locations": [
+              "westus"
+            ],
+            "properties": null,
+            "resourceType": "components"
+          }
+        ]
+      },
+      {
+        "id": null,
+        "namespace": "Microsoft.BotService",
+        "registrationPolicy": null,
+        "registrationState": null,
+        "resourceTypes": [
+          {
+            "aliases": null,
+            "apiProfiles": null,
+            "apiVersions": null,
+            "capabilities": null,
+            "defaultApiVersion": null,
+            "locationMappings": null,
+            "locations": [
+              "global"
+            ],
+            "properties": null,
+            "resourceType": "botServices"
+          }
+        ]
+      },
+      {
+        "id": null,
+        "namespace": "Microsoft.CognitiveServices",
+        "registrationPolicy": null,
+        "registrationState": null,
+        "resourceTypes": [
+          {
+            "aliases": null,
+            "apiProfiles": null,
+            "apiVersions": null,
+            "capabilities": null,
+            "defaultApiVersion": null,
+            "locationMappings": null,
+            "locations": [
+              "westus"
+            ],
+            "properties": null,
+            "resourceType": "accounts"
+          }
+        ]
+      },
+      {
+        "id": null,
+        "namespace": "Microsoft.Search",
+        "registrationPolicy": null,
+        "registrationState": null,
+        "resourceTypes": [
+          {
+            "aliases": null,
+            "apiProfiles": null,
+            "apiVersions": null,
+            "capabilities": null,
+            "defaultApiVersion": null,
+            "locationMappings": null,
+            "locations": [
+              "westus"
+            ],
+            "properties": null,
+            "resourceType": "searchServices"
+          }
+        ]
+      }
+    ],
+    "provisioningState": "Succeeded",
+    "templateHash": "13477614374195947565",
+    "templateLink": null,
+    "timestamp": "2021-05-10T05:09:39.775080+00:00",
+    "validatedResources": [
+      {
+        "id": "/subscriptions/389678db-6331-4c2c-8567-4af47f22b1d6/resourceGroups/MSChatBotTachyon/providers/Microsoft.Resources/deployments/3822b5f4-d098-4b57-9ee6-3bee686aec4c",
+        "resourceGroup": "MSChatBotTachyon"
+      },
+      {
+        "id": "/subscriptions/389678db-6331-4c2c-8567-4af47f22b1d6/resourceGroups/MSChatBotTachyon/providers/Microsoft.DocumentDB/databaseAccounts/chatbottachyonjgimfhn",
+        "resourceGroup": "MSChatBotTachyon"
+      },
+      {
+        "id": "/subscriptions/389678db-6331-4c2c-8567-4af47f22b1d6/resourceGroups/MSChatBotTachyon/providers/Microsoft.Storage/storageAccounts/chatbottachyonjgimfhn",
+        "resourceGroup": "MSChatBotTachyon"
+      },
+      {
+        "id": "/subscriptions/389678db-6331-4c2c-8567-4af47f22b1d6/resourceGroups/MSChatBotTachyon/providers/Microsoft.Web/serverFarms/chatbottachyon-jgimfhn",
+        "resourceGroup": "MSChatBotTachyon"
+      },
+      {
+        "id": "/subscriptions/389678db-6331-4c2c-8567-4af47f22b1d6/resourceGroups/MSChatBotTachyon/providers/Microsoft.Insights/components/chatbottachyon-jgimfhn",
+        "resourceGroup": "MSChatBotTachyon"
+      },
+      {
+        "id": "/subscriptions/389678db-6331-4c2c-8567-4af47f22b1d6/resourceGroups/MSChatBotTachyon/providers/Microsoft.Web/sites/chatbottachyon-jgimfhn",
+        "resourceGroup": "MSChatBotTachyon"
+      },
+      {
+        "id": "/subscriptions/389678db-6331-4c2c-8567-4af47f22b1d6/resourceGroups/MSChatBotTachyon/providers/Microsoft.BotService/botServices/chatbottachyon-jgimfhn",
+        "resourceGroup": "MSChatBotTachyon"
+      },
+      {
+        "id": "/subscriptions/389678db-6331-4c2c-8567-4af47f22b1d6/resourceGroups/MSChatBotTachyon/providers/Microsoft.CognitiveServices/accounts/chatbottachyon-cm-jgimfhn",
+        "resourceGroup": "MSChatBotTachyon"
+      },
+      {
+        "id": "/subscriptions/389678db-6331-4c2c-8567-4af47f22b1d6/resourceGroups/MSChatBotTachyon/providers/Microsoft.CognitiveServices/accounts/chatbottachyon-luisruntime-jgimfhn",
+        "resourceGroup": "MSChatBotTachyon"
+      },
+      {
+        "id": "/subscriptions/389678db-6331-4c2c-8567-4af47f22b1d6/resourceGroups/MSChatBotTachyon/providers/Microsoft.CognitiveServices/accounts/chatbottachyon-luisauthoring-jgimfhn",
+        "resourceGroup": "MSChatBotTachyon"
+      },
+      {
+        "id": "/subscriptions/389678db-6331-4c2c-8567-4af47f22b1d6/resourceGroups/MSChatBotTachyon/providers/Microsoft.CognitiveServices/accounts/chatbottachyon-qna-jgimfhn",
+        "resourceGroup": "MSChatBotTachyon"
+      },
+      {
+        "id": "/subscriptions/389678db-6331-4c2c-8567-4af47f22b1d6/resourceGroups/MSChatBotTachyon/providers/Microsoft.Search/searchServices/chatbottachyon-search-jgimfhn",
+        "resourceGroup": "MSChatBotTachyon"
+      },
+      {
+        "id": "/subscriptions/389678db-6331-4c2c-8567-4af47f22b1d6/resourceGroups/MSChatBotTachyon/providers/Microsoft.Web/sites/chatbottachyon-qnahost-jgimfhn",
+        "resourceGroup": "MSChatBotTachyon"
+      },
+      {
+        "id": "/subscriptions/389678db-6331-4c2c-8567-4af47f22b1d6/resourceGroups/MSChatBotTachyon/providers/Microsoft.Web/sites/chatbottachyon-qnahost-jgimfhn/config/appsettings",
+        "resourceGroup": "MSChatBotTachyon"
+      }
+    ]
+  },
+  "resourceGroup": "MSChatBotTachyon",
+  "type": "Microsoft.Resources/deployments"
+}
+WARNING: This command is implicitly deprecated because command group 'group deployment' is deprecated and will be removed in a future release. Use 'deployment group' instead.
+WARNING: This command is implicitly deprecated because command group 'group deployment' is deprecated and will be removed in a future release. Use 'deployment group' instead.
+{
+  "applicationInsights": {
+    "type": "Object",
+    "value": {
+      "InstrumentationKey": "f30575fa-d847-432b-9a14-0e4a89b73fa4"
+    }
+  },
+  "blobStorage": {
+    "type": "Object",
+    "value": {
+      "connectionString": "DefaultEndpointsProtocol=https;AccountName=chatbottachyonjgimfhn;AccountKey=LjdSPA0apydM4K9XsnHlpa7bVXPxMK4Sr9ljdebjMQ4SKSbTu3KAeyFiijDPUt5Ced1lH5lGKDCUnIU580ay8A==;EndpointSuffix=core.windows.net",
+      "container": "transcripts"
+    }
+  },
+  "botWebAppName": {
+    "type": "String",
+    "value": "chatbottachyon-jgimfhn"
+  },
+  "contentModerator": {
+    "type": "Object",
+    "value": {
+      "key": "5459b6ce84dc4c95b9334fb06249f5fb"
+    }
+  },
+  "cosmosDb": {
+    "type": "Object",
+    "value": {
+      "authKey": "oJgTAUyfWccycaTqDQDcJ8CTAsTMpiyNYGiJROujhwmkBoHShuUoIAp4cOnZmZvwfcH9W1azrtlHtyrDpwuKbA==",
+      "containerId ": "chatbottachyon-state",
+      "cosmosDBEndpoint": "https://chatbottachyonjgimfhn.documents.azure.com:443/",
+      "databaseId": "botstate-db"
+    }
+  },
+  "luis": {
+    "type": "Object",
+    "value": {
+      "accountName": "chatbottachyon-luisruntime-jgimfhn",
+      "authoringKey": "d55dbf8b4d3540cdba9d3d072fa7734d",
+      "authoringRegion": "westus",
+      "endpoint": "https://chatbottachyon-luisauthoring-jgimfhn.cognitiveservices.azure.com/",
+      "key": "928795825e484ceaaebaa73d07a371e5",
+      "region": "westus"
+    }
+  },
+  "qnaMaker": {
+    "type": "Object",
+    "value": {
+      "endpoint": "https://chatbottachyon-qnahost-jgimfhn.azurewebsites.net",
+      "key": "a12e1e63b32c45be9cbb12928027ccb6"
+    }
+  },
+  "resourceGroupName": {
+    "type": "String",
+    "value": "chatbottachyon"
+  }
+}

@@ -1,0 +1,30 @@
+Microsoft (R) Build Engine version 16.5.0+d4cbfca49 for .NET Core
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Controllers\GoogleController.cs(15,40): warning SA1306: Field 'Adapter' should begin with lower-case letter [C:\Users\158057\source\repos\botframework-solutions\samples\csharp\assistants\hospitality-assistant\VirtualAssistantSample\VirtualAssistantSample.csproj]
+Controllers\GoogleController.cs(16,31): warning SA1306: Field 'Bot' should begin with lower-case letter [C:\Users\158057\source\repos\botframework-solutions\samples\csharp\assistants\hospitality-assistant\VirtualAssistantSample\VirtualAssistantSample.csproj]
+{
+  "active": true,
+  "author": "N/A",
+  "author_email": "N/A",
+  "complete": true,
+  "deployer": "ZipDeploy",
+  "end_time": "2021-05-10T05:16:20.2764096Z",
+  "id": "6328d1f2c303418b937aa34f74ff006f",
+  "is_readonly": true,
+  "is_temp": false,
+  "last_success_end_time": "2021-05-10T05:16:20.2764096Z",
+  "log_url": "https://chatbottachyon-jgimfhn.scm.azurewebsites.net/api/deployments/latest/log",
+  "message": "Created via a push deployment",
+  "progress": "",
+  "provisioningState": "Succeeded",
+  "received_time": "2021-05-10T05:16:13.5567228Z",
+  "site_name": "chatbottachyon-jgimfhn",
+  "start_time": "2021-05-10T05:16:13.7292317Z",
+  "status": 4,
+  "status_text": "",
+  "url": "https://chatbottachyon-jgimfhn.scm.azurewebsites.net/api/deployments/latest"
+}
+WARNING: Getting scm site credentials for zip deployment
+WARNING: Starting zip deployment. This operation can take a while to complete ...
+WARNING: Deployment endpoint responded with status code 202

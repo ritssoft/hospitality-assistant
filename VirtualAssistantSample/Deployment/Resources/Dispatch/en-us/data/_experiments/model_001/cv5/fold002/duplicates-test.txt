@@ -1,0 +1,2 @@
+Utterance	Intents
+forget about it	l_General, q_Chitchat

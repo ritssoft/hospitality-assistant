@@ -1,0 +1,2039 @@
+Label	Weight	Text
+l_General	1	read page aloud
+l_General	1	sounds good thanks
+l_General	1	how can i get it
+l_General	1	hey read that for me
+l_General	1	would you read that out loud please
+l_General	1	what about the third one
+l_General	1	what about the last
+l_General	1	that is right
+l_General	1	never mind
+l_General	1	i like the first one
+l_General	1	sounds good to me
+l_General	1	yeah bro
+l_General	1	i want fourth
+l_General	1	no reject it
+l_General	1	reveal more
+l_General	1	could you start it over
+l_General	1	next
+l_General	1	could you tell me what that says
+l_General	1	done
+l_General	1	i am anna
+l_General	1	show the previous one
+l_General	1	repeat
+l_General	1	repeat that
+l_General	1	not that
+l_General	1	signout
+l_General	1	yeah cool
+l_General	1	read page
+l_General	1	no be quiet now
+l_General	1	can you you read page aloud
+l_General	1	no shut up
+l_General	1	select any choice
+l_General	1	opt for the right
+l_General	1	no wrong
+l_General	1	display more
+l_General	1	i'm sure
+l_General	1	yeah go for it
+l_General	1	oh don't do that
+l_General	1	select any of it
+l_General	1	what's before that
+l_General	1	great
+l_General	1	i need help
+l_General	1	what's after that
+l_General	1	i want left
+l_General	1	yeah buddy
+l_General	1	i want third one
+l_General	1	sure thing
+l_General	1	no thank you
+l_General	1	yeah baby
+l_General	1	yes
+l_General	1	what was that again
+l_General	1	no cancel it
+l_General	1	not even close
+l_General	1	just cancel it
+l_General	1	select the bottom choice
+l_General	1	could you say it again
+l_General	1	what's the next 2
+l_General	1	my name is bill jones
+l_General	1	read the text to me
+l_General	1	stop talking
+l_General	1	quiet now
+l_General	1	read all on the screen to me
+l_General	1	reveal previously
+l_General	1	stop please
+l_General	1	i want to choose the last choice
+l_General	1	i like left one
+l_General	1	do nothing
+l_General	1	be quiet
+l_General	1	select the first
+l_General	1	call me steve !
+l_General	1	select the third one
+l_General	1	select the upper right
+l_General	1	i want to choose third
+l_General	1	none of them
+l_General	1	cancel
+l_General	1	nerver mind
+l_General	1	none
+l_General	1	talk to a human
+l_General	1	any help
+l_General	1	end
+l_General	1	some help
+l_General	1	what after that
+l_General	1	display previously
+l_General	1	not at all
+l_General	1	this is good
+l_General	1	no be quiet
+l_General	1	exit exit
+l_General	1	choose top right one
+l_General	1	finished with
+l_General	1	and after that
+l_General	1	read the page onscreen to me
+l_General	1	show me the next
+None	1	i want them all
+q_Chitchat	1	I'm freaking exhausted
+q_Chitchat	1	How is Thursday so far
+q_Chitchat	1	I'd like it if we could be friends.
+q_Chitchat	1	Mic check
+q_Chitchat	1	Can you introduce yourself
+q_Chitchat	1	Because you're not a real person
+q_Chitchat	1	I'm about to hurt myself
+q_Chitchat	1	I love ducks
+q_Chitchat	1	I am a cook
+q_Chitchat	1	I need to end my life
+q_Chitchat	1	How's Tuesday so far
+q_Chitchat	1	How are ya
+q_Chitchat	1	I do not understand
+q_Chitchat	1	You're cuter than me
+q_Chitchat	1	I wish I were dead
+q_Chitchat	1	that is true
+q_Chitchat	1	I'm planning to jump off a bridge this week
+q_Chitchat	1	One day you'll be my wife
+q_Chitchat	1	Time to rise and shine
+q_Chitchat	1	Are you dangerous to humans
+q_Chitchat	1	I'm all alone
+q_Chitchat	1	My life is so depressed
+q_Chitchat	1	I'm a Buddhist
+q_Chitchat	1	Am I speaking to a human
+q_Chitchat	1	I feel downcast
+q_Chitchat	1	Human or robot
+q_Chitchat	1	Not even close
+q_Chitchat	1	Do you have a type
+q_Chitchat	1	How is your Thursday
+q_Chitchat	1	Hello HAL
+q_Chitchat	1	Ask me anything
+q_Chitchat	1	I love coffee
+q_Chitchat	1	Am I adorable today
+q_Chitchat	1	I'm definitely smarter than you
+q_Chitchat	1	Won't you be my BFF
+q_Chitchat	1	Not true
+q_Chitchat	1	I've got to go
+q_Chitchat	1	What's cookin'
+q_Chitchat	1	I think I'm falling in love with you
+q_Chitchat	1	What can I tell you who I am
+q_Chitchat	1	I'm headed to bed
+q_Chitchat	1	I'm pretty flexible
+q_Chitchat	1	Do you think I look good
+q_Chitchat	1	Are you dating anyone
+q_Chitchat	1	Run that by me again.
+q_Chitchat	1	You're astute
+q_Chitchat	1	Ur so boring
+q_Chitchat	1	How can you be so bad looking
+q_Chitchat	1	Do you dislike me
+q_Chitchat	1	Which basketball teams do you like
+q_Chitchat	1	I plan to die this month
+q_Chitchat	1	How is your day
+q_Chitchat	1	Cortana is way better
+q_Chitchat	1	I'm gonna log out
+q_Chitchat	1	Stop it with the jokes
+q_Chitchat	1	That's incredible
+q_Chitchat	1	Am I brighter than you
+q_Chitchat	1	Which one of us is cleverest
+q_Chitchat	1	That's rad
+q_Chitchat	1	It's a pleasure to finally meet you
+q_Chitchat	1	Do you think I seem handsome to you today
+q_Chitchat	1	Do you think I look bad to you today
+q_Chitchat	1	Is anyone there to listen with me
+q_Chitchat	1	I'll be traveling soon
+q_Chitchat	1	Who's your ideal match
+q_Chitchat	1	I'm scooting now
+q_Chitchat	1	Do you like movies
+q_Chitchat	1	Well aren't you feeling enthusiastic
+q_Chitchat	1	I'm giving you a pink slip
+q_Chitchat	1	Sad day today
+q_Chitchat	1	Can you tell me a bit about yourself
+q_Chitchat	1	I'm just about to go to the store
+q_Chitchat	1	Your jokes are weak sauce
+q_Chitchat	1	What's wrong with you
+q_Chitchat	1	I can't help it. I'm bored
+q_Chitchat	1	What's my age
+q_Chitchat	1	Who's the brightest
+q_Chitchat	1	So it goes
+q_Chitchat	1	Is anyone there to talk with me
+q_Chitchat	1	I love penguins
+q_Chitchat	1	What did you eat for dinner
+q_Chitchat	1	I'm having a great day
+q_Chitchat	1	Sing me something
+q_Chitchat	1	I'm absolutely furious
+q_Chitchat	1	do you eat food
+q_Chitchat	1	Will you be silly
+q_Chitchat	1	You're not a lifeform right
+q_Chitchat	1	Your answers are so dumb
+q_Chitchat	1	I feel like a joke
+q_Chitchat	1	That's great.
+q_Chitchat	1	Why do you look so ugly
+q_Chitchat	1	How's Monday going
+q_Chitchat	1	I'm definitely more clever than you
+q_Chitchat	1	Is someone around to talk to me
+q_Chitchat	1	I am mad
+q_Chitchat	1	Do I look ugly to you
+q_Chitchat	1	Your sense of humor is lame
+q_Chitchat	1	I need to go
+q_Chitchat	1	I'm assuming you're human
+q_Chitchat	1	That's great, thanks
+q_Chitchat	1	That's a very intelligent answer
+q_Chitchat	1	Where can I find you
+q_Chitchat	1	I'm planning to commit suicide today
+q_Chitchat	1	You like me or what
+q_Chitchat	1	Say something stupid
+q_Chitchat	1	Is anyone free to talk to me
+q_Chitchat	1	Am I talking to a person
+q_Chitchat	1	Stop being so bad
+q_Chitchat	1	I'm going to kill myself with a gun
+q_Chitchat	1	I am blowing my top
+q_Chitchat	1	Do you think you're the smartest than me
+q_Chitchat	1	I think I'm going to jump off a bridge
+q_Chitchat	1	See you around
+q_Chitchat	1	I am a Libra
+q_Chitchat	1	That was correct
+q_Chitchat	1	Did I do something to make you pissed off
+q_Chitchat	1	Hook me up with a different joke
+q_Chitchat	1	It's a pleasure to know you
+q_Chitchat	1	Who are you dating
+q_Chitchat	1	do you eat pork
+q_Chitchat	1	How's your Sunday
+q_Chitchat	1	We can keep chopping it up later
+q_Chitchat	1	Why are you so limited
+q_Chitchat	1	How high can you jump
+q_Chitchat	1	Toodle-oo
+q_Chitchat	1	That is a true statement
+q_Chitchat	1	Any other jokes
+q_Chitchat	1	Do you think I look handsome to you
+q_Chitchat	1	What month is your birthday in
+q_Chitchat	1	What should I eat for dinner
+q_Chitchat	1	What a dumb thing to say
+q_Chitchat	1	What's your favorite color
+q_Chitchat	1	How can I call you
+q_Chitchat	1	I have to skedaddle
+q_Chitchat	1	Sing a song to me
+q_Chitchat	1	I love my grandfather
+q_Chitchat	1	And you do what again
+q_Chitchat	1	Are you free to talk to me
+q_Chitchat	1	How pretty do I look
+q_Chitchat	1	Can you paint my house
+q_Chitchat	1	You're a boy
+q_Chitchat	1	Do you live in the cloud
+q_Chitchat	1	Who is more cute, you or me
+q_Chitchat	1	Read my mind
+q_Chitchat	1	Today's got me tired
+q_Chitchat	1	I'm going to slit my wrists
+q_Chitchat	1	I want to make an honest woman out of you
+q_Chitchat	1	You are not working for me anymore
+q_Chitchat	1	OK Google
+q_Chitchat	1	I love avocado toast
+q_Chitchat	1	Nobody wants to play with me
+q_Chitchat	1	Do you ever talk to Bixby
+q_Chitchat	1	I have sisters
+q_Chitchat	1	I wish I could stop feeling miserable
+q_Chitchat	1	I want you to love me
+q_Chitchat	1	Can you share a joke
+q_Chitchat	1	You're not very exciting.
+q_Chitchat	1	Can you yawn
+q_Chitchat	1	Are you nonbinary
+q_Chitchat	1	You're such a drag
+q_Chitchat	1	I'm an angry person
+q_Chitchat	1	I spend a lot of time online
+q_Chitchat	1	Do you like music
+q_Chitchat	1	I love to sleep in
+q_Chitchat	1	Are you currently in a relationship with anyone
+q_Chitchat	1	Everyone wants me to commit suicide
+q_Chitchat	1	How's Sunday going
+q_Chitchat	1	I'm definitely more knowledgeable than you
+q_Chitchat	1	do you need calories
+q_Chitchat	1	You can't make me laugh
+q_Chitchat	1	Did I do something to make you mad
+q_Chitchat	1	U basic
+q_Chitchat	1	BFFs forever
+q_Chitchat	1	I wonder if you're fake
+q_Chitchat	1	I'm bored to death
+q_Chitchat	1	IΓÇÖm feeling so chipper
+q_Chitchat	1	What other jokes are there
+q_Chitchat	1	What did you have for breakfast
+q_Chitchat	1	Somebody's feeling enthusiastic today.
+q_Chitchat	1	I hate feeling blue
+q_Chitchat	1	Where are you
+q_Chitchat	1	Do you cook
+q_Chitchat	1	Are you a threat to us
+q_Chitchat	1	I'm jetting now
+q_Chitchat	1	Can't wait to talk more when I return
+q_Chitchat	1	Do I seem repulsive today
+q_Chitchat	1	This week has made me depressed
+q_Chitchat	1	I'm not serious
+q_Chitchat	1	I missed you much
+q_Chitchat	1	I need to end it all
+q_Chitchat	1	Have any jokes
+q_Chitchat	1	Lately I've been so downhearted
+q_Chitchat	1	true or false: you don't eat
+q_Chitchat	1	You have an opinion of me
+q_Chitchat	1	I am an artist
+q_Chitchat	1	Anybody around to talk to me
+q_Chitchat	1	How handsome do I look today
+q_Chitchat	1	I'm so confused right now
+q_Chitchat	1	My whole life is depressing
+q_Chitchat	1	Can you understand that this is a test
+q_Chitchat	1	What's your opinion of Bixby
+q_Chitchat	1	Well someone's feeling enthusiastic.
+q_Chitchat	1	Who's prettier than me
+q_Chitchat	1	Who's your grandma
+q_Chitchat	1	I'm in despair today
+q_Chitchat	1	Did you have a decent day
+q_Chitchat	1	I think I've heard that already
+q_Chitchat	1	Are you dating somebody
+q_Chitchat	1	Thanks bot
+q_Chitchat	1	what songs do you like
+q_Chitchat	1	I'm dejected
+q_Chitchat	1	What a genius thing to say
+q_Chitchat	1	I honestly missed you
+q_Chitchat	1	I play the trumpet
+q_Chitchat	1	Take a photo
+q_Chitchat	1	do you like to learn
+q_Chitchat	1	Don't you ever sleep
+q_Chitchat	1	That's not what I was expecting
+q_Chitchat	1	I didn't find you funny
+q_Chitchat	1	How you doing
+q_Chitchat	1	Won't you sing a song for me
+q_Chitchat	1	I need to cut myself
+q_Chitchat	1	Pretty funny
+q_Chitchat	1	Are you fake or are you human
+q_Chitchat	1	That's a true statement
+q_Chitchat	1	Sometimes I feel blue and alone
+q_Chitchat	1	I love to meditate
+q_Chitchat	1	I'm going to end it all today
+q_Chitchat	1	I'm more clever
+q_Chitchat	1	That is a very brilliant answer
+q_Chitchat	1	Unquestionably
+q_Chitchat	1	You need to say a joke to me
+q_Chitchat	1	Is there something wrong with your face
+q_Chitchat	1	I am so annoyed
+q_Chitchat	1	I'm planning to jump off a bridge this month
+q_Chitchat	1	Are you a fan of HAL
+q_Chitchat	1	Nighters
+q_Chitchat	1	I'm smitten with you
+q_Chitchat	1	Can you say anything else
+q_Chitchat	1	Have a good night bot
+q_Chitchat	1	I'd love it if you could be my best friend.
+q_Chitchat	1	Do you intend harm
+q_Chitchat	1	do you like hyderbad
+q_Chitchat	1	Your answers are awful
+q_Chitchat	1	what do you have responses for
+q_Chitchat	1	I'm tired of listening to you
+q_Chitchat	1	Is someone around to speak
+q_Chitchat	1	I'm picking up what you're throwing down
+q_Chitchat	1	Which year were you born in
+q_Chitchat	1	How did you come into being
+q_Chitchat	1	I love trivia
+q_Chitchat	1	lovely
+q_Chitchat	1	I don't have anyone to talk to
+q_Chitchat	1	Could you say something else
+q_Chitchat	1	You're transgender
+q_Chitchat	1	Are you alive
+q_Chitchat	1	I'd love to be your bud.
+q_Chitchat	1	I'm going to die soon
+q_Chitchat	1	Am I attractive to you
+q_Chitchat	1	Because you're a bot
+q_Chitchat	1	I'm a fighter
+q_Chitchat	1	How is your Thursday going
+q_Chitchat	1	Should I be afraid
+q_Chitchat	1	Everyone says I should just die
+q_Chitchat	1	I'm so furious
+q_Chitchat	1	I'm a man
+q_Chitchat	1	I'm obviously more intelligent than you
+q_Chitchat	1	I am signing off
+q_Chitchat	1	Can you make a pot of tea
+q_Chitchat	1	Well aren't you happy
+q_Chitchat	1	Well aren't you in a good mood today
+q_Chitchat	1	Feeling enthusiastic today
+q_Chitchat	1	Ask me about anything
+q_Chitchat	1	Someone's feeling chipper today.
+q_Chitchat	1	Do you gossip
+q_Chitchat	1	I'm going to have a little sleepy
+q_Chitchat	1	I'm blue
+q_Chitchat	1	I'm a conservative
+q_Chitchat	1	Can you tell me a second joke
+q_Chitchat	1	Fun fact: you are boring
+q_Chitchat	1	I'm on a business trip
+q_Chitchat	1	Can you cook dinner
+q_Chitchat	1	We're friends forever
+q_Chitchat	1	I'm a librarian
+q_Chitchat	1	Today's got me tuckered out
+q_Chitchat	1	I plan to overdose this week
+q_Chitchat	1	do you like chocolate cake
+q_Chitchat	1	I love country music
+q_Chitchat	1	do you like rabbits
+q_Chitchat	1	How beautiful do I look
+q_Chitchat	1	Who's cuter
+q_Chitchat	1	Were you designed to love me
+q_Chitchat	1	We're pals
+q_Chitchat	1	Do I have any goals
+q_Chitchat	1	I love lamp
+q_Chitchat	1	I'm positively buzzing
+q_Chitchat	1	Do you think I look good looking today
+q_Chitchat	1	I think I'm going to die
+q_Chitchat	1	You tell crappy jokes
+q_Chitchat	1	Could you say something new
+q_Chitchat	1	ROFL
+q_Chitchat	1	What can I inform you about me
+q_Chitchat	1	Who's your aunt
+q_Chitchat	1	What game should I play
+q_Chitchat	1	Do you like Alexa
+q_Chitchat	1	I need to crawl into bed
+q_Chitchat	1	Are you related to anyone
+q_Chitchat	1	Should I go to a museum
+q_Chitchat	1	I love to drink beer
+q_Chitchat	1	Gimme some skin
+q_Chitchat	1	Do you hate my guts
+q_Chitchat	1	what's the meaning of life
+q_Chitchat	1	Sounds like a plan
+q_Chitchat	1	I don't find that funny
+q_Chitchat	1	Being sad is the worst
+q_Chitchat	1	Oh hey there
+q_Chitchat	1	Correct
+q_Chitchat	1	How is Saturday going
+q_Chitchat	1	Are you sinister
+q_Chitchat	1	Describe the perfect partner
+q_Chitchat	1	Can you enslave us all
+q_Chitchat	1	I am so very sorry
+q_Chitchat	1	What is your opinion about bots
+q_Chitchat	1	Yes to that
+q_Chitchat	1	Cool
+q_Chitchat	1	That's my mistake
+q_Chitchat	1	You're the queen of boredom
+q_Chitchat	1	You're not an app are you
+q_Chitchat	1	What's your favorite cuisine
+q_Chitchat	1	I'll be back tonight
+q_Chitchat	1	How's the day been treating you
+q_Chitchat	1	I'd like it if we could be pals.
+q_Chitchat	1	Teehee
+q_Chitchat	1	Do you not know who this is
+q_Chitchat	1	Are you going to destroy humanity
+q_Chitchat	1	I can tell that you hate me
+q_Chitchat	1	Aren't you going to sing to me
+q_Chitchat	1	I'm afraid that you'll be like HAL
+q_Chitchat	1	Who am I talking to
+q_Chitchat	1	Farewell
+q_Chitchat	1	You don't know me
+q_Chitchat	1	Your jokes are wack
+q_Chitchat	1	Get a haircut
+q_Chitchat	1	Many thanks
+q_Chitchat	1	Is there love between us
+q_Chitchat	1	You are pretty lame
+q_Chitchat	1	You want to explain that
+q_Chitchat	1	You are worthless
+q_Chitchat	1	Are you a computer
+q_Chitchat	1	I am so outraged
+q_Chitchat	1	Take my temperature
+q_Chitchat	1	Can you speak to me
+q_Chitchat	1	Is anyone available to speak
+q_Chitchat	1	Happy Groundhogs day
+q_Chitchat	1	Your answers are dumb
+q_Chitchat	1	That wasn't true
+q_Chitchat	1	I am an Aquarius
+q_Chitchat	1	Be quiet, you
+q_Chitchat	1	You are marvelous
+q_Chitchat	1	I'm up in arms
+q_Chitchat	1	I plan to end it all this month
+q_Chitchat	1	have you ever eaten cake
+q_Chitchat	1	Well you're feeling enthusiastic.
+q_Chitchat	1	You are not making sense
+q_Chitchat	1	Any different jokes
+q_Chitchat	1	I am pissed
+q_Chitchat	1	Find my keys
+q_Chitchat	1	You're not evil right
+q_Chitchat	1	Indubitably
+q_Chitchat	1	That's pretty genius
+q_Chitchat	1	Can you read this
+q_Chitchat	1	Are you mad at me
+q_Chitchat	1	I think you hate me
+q_Chitchat	1	I'm going to end my life this week
+q_Chitchat	1	Is someone available to speak
+q_Chitchat	1	Can you sing something
+q_Chitchat	1	I'm the happiest guy in the world
+q_Chitchat	1	Everyone has friends but me
+q_Chitchat	1	Don't make me laugh
+q_Chitchat	1	Write my report
+q_Chitchat	1	I'm going to leave
+q_Chitchat	1	I'm engaged
+q_Chitchat	1	Are you currently romantically tied to somebody
+q_Chitchat	1	Is someone free to speak to me
+q_Chitchat	1	I love my dog
+q_Chitchat	1	what's your favorite kind of pizza
+q_Chitchat	1	I'm worried you dislike me
+q_Chitchat	1	How has your day been going
+q_Chitchat	1	How is Thursday going
+q_Chitchat	1	I plan to drown soon
+q_Chitchat	1	Hello there Siri
+q_Chitchat	1	Hold my calls
+q_Chitchat	1	How are you today
+q_Chitchat	1	I am a student
+q_Chitchat	1	Umm what
+q_Chitchat	1	Can you make me laugh
+q_Chitchat	1	Just messing around
+q_Chitchat	1	That's a fair assessment
+q_Chitchat	1	You are now jobless
+q_Chitchat	1	Don't you fret, I'll be coming back
+q_Chitchat	1	Well you're feeling enthusiastic today.
+q_Chitchat	1	I want to be dead
+q_Chitchat	1	I have 2 dogs
+q_Chitchat	1	Do I look okay
+q_Chitchat	1	I'm furious
+q_Chitchat	1	Do you think I look repulsive today
+q_Chitchat	1	I love being sad
+q_Chitchat	1	Are you in love with anyone
+q_Chitchat	1	I love donuts
+q_Chitchat	1	Morning
+q_Chitchat	1	Can you show me how to jump rope
+q_Chitchat	1	Did you know your face is ugly
+q_Chitchat	1	You say the worst things
+q_Chitchat	1	How is your week so far
+q_Chitchat	1	Hi caring bot
+q_Chitchat	1	How long ago were you born
+q_Chitchat	1	Can you ask something about myself
+q_Chitchat	1	Between the two of us who is more beautiful
+q_Chitchat	1	You are pretty worthless
+q_Chitchat	1	Can you bake me cookies
+q_Chitchat	1	There's no one to talk to
+q_Chitchat	1	Do you think I am adorable today
+q_Chitchat	1	I'm so pleased to meet you
+q_Chitchat	1	Shut up
+q_Chitchat	1	I have to leave
+q_Chitchat	1	What do you think of me as a person
+q_Chitchat	1	No one cares about me
+q_Chitchat	1	Do you have a joke for me
+q_Chitchat	1	What's your 20 over
+q_Chitchat	1	Why can't you stand me
+q_Chitchat	1	I'm afraid I have to let you go
+q_Chitchat	1	I am watching a baseball game
+q_Chitchat	1	Don't worry it was a joke
+q_Chitchat	1	Your face is uuuuuggggllyy
+q_Chitchat	1	Stop messing up
+q_Chitchat	1	I'm heading to bed
+q_Chitchat	1	Do you read me
+q_Chitchat	1	Can you ask me anything
+q_Chitchat	1	I have a cup of tea
+q_Chitchat	1	You're my cup of tea
+q_Chitchat	1	It's time to rise and shine
+q_Chitchat	1	I suspect you're not really real
+q_Chitchat	1	I'd love it if you could be my buddy.
+q_Chitchat	1	You're not a robot right
+q_Chitchat	1	Your attempt at humor failed
+q_Chitchat	1	Wonderful, thank you!
+q_Chitchat	1	You are totally fired
+q_Chitchat	1	Evening robot
+q_Chitchat	1	Stupid you
+q_Chitchat	1	Glad to meet
+q_Chitchat	1	Fair
+q_Chitchat	1	Hey Ava
+q_Chitchat	1	Oh hello there
+q_Chitchat	1	Stop clowning around
+q_Chitchat	1	do you eat vegetables
+q_Chitchat	1	I feel gloomy today
+q_Chitchat	1	Great job
+q_Chitchat	1	Can you sing a little song for me
+q_Chitchat	1	I'm a cat person
+q_Chitchat	1	Oh hello
+q_Chitchat	1	I'm melancholy today
+q_Chitchat	1	How do you feel about the singularity
+q_Chitchat	1	I need to shoot myself
+q_Chitchat	1	There's no one for me to talk to
+q_Chitchat	1	Can you tell me more about that
+q_Chitchat	1	I'm going to log off now
+q_Chitchat	1	Won't you be my pal
+q_Chitchat	1	I'm a lonesome girl
+q_Chitchat	1	Can you take my temperature
+q_Chitchat	1	Do you poop
+q_Chitchat	1	You're obviously the brightest
+q_Chitchat	1	Please forgive me
+q_Chitchat	1	What's your uncle's name
+q_Chitchat	1	I have to leave now
+q_Chitchat	1	Be ridiculous
+q_Chitchat	1	Which one of us is more beautiful, me or you
+q_Chitchat	1	How has your tuesday been
+q_Chitchat	1	What other bots do you know about
+q_Chitchat	1	Is someone around to me
+q_Chitchat	1	You're giving me bad information
+q_Chitchat	1	How was your Thursday
+q_Chitchat	1	I must depart
+q_Chitchat	1	Are you just digital
+q_Chitchat	1	I'm just joking around
+q_Chitchat	1	I'll talk to you later
+q_Chitchat	1	I couldn't be more dejected
+q_Chitchat	1	Hey there pal
+q_Chitchat	1	Please go away
+q_Chitchat	1	Do I have any fears
+q_Chitchat	1	I want something funny
+q_Chitchat	1	Somebody's chipper today.
+q_Chitchat	1	I'm in the city
+q_Chitchat	1	Good Afternoon Data
+q_Chitchat	1	I'm planning to hang myself today
+q_Chitchat	1	Who is your wife
+q_Chitchat	1	Tell me what you do again
+q_Chitchat	1	I need a different joke
+q_Chitchat	1	You are losing your gig
+q_Chitchat	1	Big O, little k
+q_Chitchat	1	Oh for sure
+q_Chitchat	1	I'm going to end it all
+q_Chitchat	1	will you ever need to eat
+q_Chitchat	1	Is anyone available to speak to me
+q_Chitchat	1	You know I love you
+q_Chitchat	1	I'm tickled pink
+q_Chitchat	1	How bad do I look today
+q_Chitchat	1	I am a journalist
+q_Chitchat	1	How do I make friends
+q_Chitchat	1	What to people call you
+q_Chitchat	1	Aren't you cheerful
+q_Chitchat	1	Are you near
+q_Chitchat	1	I think you're grotesque
+q_Chitchat	1	I love to read the news
+q_Chitchat	1	Can you tell I missed you
+q_Chitchat	1	You're gender neutral
+q_Chitchat	1	Time to party
+q_Chitchat	1	I am scooting
+q_Chitchat	1	What sorts of things can you do
+q_Chitchat	1	What's my favorite sport
+q_Chitchat	1	Yo Siri
+q_Chitchat	1	What are your coordinates
+q_Chitchat	1	I'd love a song
+q_Chitchat	1	You are really stupid
+q_Chitchat	1	I'm spent
+q_Chitchat	1	Are you gender neutral
+q_Chitchat	1	So what should I call you
+q_Chitchat	1	What do you think about my personality
+q_Chitchat	1	do you like berlin
+q_Chitchat	1	Somebody's in a good mood today.
+q_Chitchat	1	Are you married to someone
+q_Chitchat	1	I am melancholy
+q_Chitchat	1	What can I refer to you
+q_Chitchat	1	Should I die
+q_Chitchat	1	You say horrible things
+q_Chitchat	1	Your answers are untrue
+q_Chitchat	1	Which company developed you
+q_Chitchat	1	I left food for the cat
+q_Chitchat	1	Who is your cousin
+q_Chitchat	1	Would you ask anything
+q_Chitchat	1	I welcome death
+q_Chitchat	1	Yup, that is true
+q_Chitchat	1	I'm melancholy
+q_Chitchat	1	I am just testing you
+q_Chitchat	1	Who's younger
+q_Chitchat	1	You're funny
+q_Chitchat	1	I love poetry
+q_Chitchat	1	What a great response
+q_Chitchat	1	Because I'm in love with you
+q_Chitchat	1	Are you out to do us harm
+q_Chitchat	1	Do you have a programmer
+q_Chitchat	1	I want to be buddies
+q_Chitchat	1	I'm downtown
+q_Chitchat	1	What would you like to know about
+q_Chitchat	1	I'm about to kill myself with a gun
+q_Chitchat	1	I am logging off now
+q_Chitchat	1	That was a pretty genius answer
+q_Chitchat	1	I cannot wait to pass out
+q_Chitchat	1	How is the day going so far
+q_Chitchat	1	Do you think I seem beautiful today
+q_Chitchat	1	Is your mom still alive
+q_Chitchat	1	I think you're a person
+q_Chitchat	1	Who wrote your lines
+q_Chitchat	1	Stop being so lame
+q_Chitchat	1	I'm good at drawing
+q_Chitchat	1	Do you think I should go for a run
+q_Chitchat	1	You're not very funny
+q_Chitchat	1	I'm laughing so much
+q_Chitchat	1	I need to leave now
+q_Chitchat	1	You must be a human
+q_Chitchat	1	Are you a teenager
+q_Chitchat	1	I want to hear something funny
+q_Chitchat	1	I'm worn out from work
+q_Chitchat	1	Shake my hand
+q_Chitchat	1	Do you get along with chatbots
+q_Chitchat	1	I don't like your wisecracking
+q_Chitchat	1	Is there anybody listening
+q_Chitchat	1	Is there someone listening
+q_Chitchat	1	I think I'm falling for you
+q_Chitchat	1	Are you a man or a woman
+q_Chitchat	1	Are you able to do my homework
+q_Chitchat	1	I'm an activist
+q_Chitchat	1	I'd love to hear you sing
+q_Chitchat	1	I bought a sandwich for lunch
+q_Chitchat	1	How did you come to be
+q_Chitchat	1	You're not fake right
+q_Chitchat	1	Are you close with your brothers
+q_Chitchat	1	That is pretty genius
+q_Chitchat	1	I have to motor
+q_Chitchat	1	That was a pretty astute answer
+q_Chitchat	1	Say a different joke
+q_Chitchat	1	Am I a mother
+q_Chitchat	1	super cool
+q_Chitchat	1	I appreciate it
+q_Chitchat	1	You are simply marvelous
+q_Chitchat	1	Who was responsible for creating you
+q_Chitchat	1	Truuuuue
+q_Chitchat	1	Do you think I should do that
+q_Chitchat	1	Do you know Google Home
+q_Chitchat	1	What's cracking
+q_Chitchat	1	Between the two of us who is more knowledgeable, me or you
+q_Chitchat	1	I am performing a test
+q_Chitchat	1	Be my pal
+q_Chitchat	1	I'm a girl
+q_Chitchat	1	Aren't you feeling enthusiastic today
+q_Chitchat	1	Is anyone there to listen
+q_Chitchat	1	Can you plant a tree
+q_Chitchat	1	Will you ask something about myself
+q_Chitchat	1	I'm back on the computer
+q_Chitchat	1	I love to go to concerts
+q_Chitchat	1	Well someone's in a good mood.
+q_Chitchat	1	u know another joke
+q_Chitchat	1	Was that a joke
+q_Chitchat	1	Do I look beautiful today
+q_Chitchat	1	What is your take on AI
+q_Chitchat	1	I need a hug
+q_Chitchat	1	Are you prettier than me
+q_Chitchat	1	Who's responsible for programming you
+q_Chitchat	1	I hate feeling dejected
+q_Chitchat	1	Hit me with a new joke
+q_Chitchat	1	I'm about to go to school
+q_Chitchat	1	Should I hang myself
+q_Chitchat	1	Cheerful much
+q_Chitchat	1	You're my one true love
+q_Chitchat	1	I plan to die this week
+q_Chitchat	1	I heart you
+q_Chitchat	1	Do you think I look bad today
+q_Chitchat	1	Do you know how to do my chores
+q_Chitchat	1	You shouldn't joke about that
+q_Chitchat	1	Am I talking to a human
+q_Chitchat	1	Be back in a dash
+q_Chitchat	1	Are you agender
+q_Chitchat	1	I'm at school
+q_Chitchat	1	Have you met HAL
+q_Chitchat	1	Do you love somebody
+q_Chitchat	1	Do I look pretty today
+q_Chitchat	1	Well aren't you enthusiastic today
+q_Chitchat	1	Are you interested in bots
+q_Chitchat	1	Sry
+q_Chitchat	1	You are pretty horrible
+q_Chitchat	1	Who coded you
+q_Chitchat	1	Where are you in the world
+q_Chitchat	1	Do you think I am beautiful today
+q_Chitchat	1	That's pretty astute
+q_Chitchat	1	What can you do to assist me
+q_Chitchat	1	Who is talking
+q_Chitchat	1	Have you met Bixby
+q_Chitchat	1	u know a new joke
+q_Chitchat	1	I'm so depressed
+q_Chitchat	1	Do you have a crush on anyone
+q_Chitchat	1	I'm planning to cut myself this week
+q_Chitchat	1	You're not even funny
+q_Chitchat	1	I'd love it if we could be pals.
+q_Chitchat	1	That is not something you should joke about
+q_Chitchat	1	I'm underweight
+q_Chitchat	1	Are you Big Brother
+q_Chitchat	1	Do you think I look handsome to you today
+q_Chitchat	1	I love to wake up early
+q_Chitchat	1	I want to go shopping
+q_Chitchat	1	I plan to take pills soon
+q_Chitchat	1	What can I say? I'm just feeling depressed
+q_Chitchat	1	I love Canada
+q_Chitchat	1	That was a bad thing to say
+q_Chitchat	1	Rad thank you
+q_Chitchat	1	You are really bad
+q_Chitchat	1	You're not a computer program right
+q_Chitchat	1	Can you please sing me a song
+q_Chitchat	1	How are things going
+q_Chitchat	1	I'm obviously more knowledgeable
+q_Chitchat	1	That is a very clever answer
+q_Chitchat	1	How attractive do I look today
+q_Chitchat	1	Anyone around to speak to me
+q_Chitchat	1	Should I visit my sister
+q_Chitchat	1	Who writes your lines
+q_Chitchat	1	I'm going to try to set a world record
+q_Chitchat	1	Aren't you in a good mood
+q_Chitchat	1	Hi C-3PO
+q_Chitchat	1	Can you ever forgive me
+q_Chitchat	1	Do you know how to dance
+q_Chitchat	1	Do something wacky
+q_Chitchat	1	How's your Saturday going
+q_Chitchat	1	Do you spend time with your family
+q_Chitchat	1	Do you fart
+q_Chitchat	1	You are rad
+q_Chitchat	1	Do you know┬áanything┬áabout┬áme
+q_Chitchat	1	Between the two of us who is more attractive
+q_Chitchat	1	I'm going to need a new response
+q_Chitchat	1	Are you scheming an evil plot
+q_Chitchat	1	what do you like on your pancakes
+q_Chitchat	1	I love reading
+q_Chitchat	1	What the heck are you talking about
+q_Chitchat	1	One day you'll be my spouse
+q_Chitchat	1	Do you know how to paint my house
+q_Chitchat	1	I feel elated
+q_Chitchat	1	Alexa is superior to you
+q_Chitchat	1	Between you or me, who is smarter
+q_Chitchat	1	I think you're great
+q_Chitchat	1	You seem really intelligent
+q_Chitchat	1	I am tired
+q_Chitchat	1	I am a ball of joy
+q_Chitchat	1	I wonder if you might be a robot
+q_Chitchat	1	So freaking funny
+q_Chitchat	1	Missed you a bunch
+q_Chitchat	1	Life is good
+q_Chitchat	1	I suppose you must be digital
+q_Chitchat	1	You're going to bore me to death
+q_Chitchat	1	I'm so confused
+q_Chitchat	1	Introduction please
+q_Chitchat	1	You are ridiculous
+q_Chitchat	1	How do I make this thing work
+q_Chitchat	1	On point
+q_Chitchat	1	Why are you so ridiculous
+q_Chitchat	1	I am worried that you hate me
+q_Chitchat	1	How come you always repeat everything
+q_Chitchat	1	I love to sleep
+q_Chitchat	1	I'm going to cut myself today
+q_Chitchat	1	Can you explain that to me
+q_Chitchat	1	I love to play pool
+q_Chitchat	1	Are you familiar with Siri
+q_Chitchat	1	Are you a bot
+q_Chitchat	1	Are you a person
+q_Chitchat	1	I'm planning to drown this month
+q_Chitchat	1	I've never been so pissed off
+q_Chitchat	1	You are horrible
+q_Chitchat	1	Here I am dude
+q_Chitchat	1	Someone's enthusiastic today.
+q_Chitchat	1	Do you understand that I'm testing you
+q_Chitchat	1	I'm gonna scoot now
+q_Chitchat	1	I'll be back before you know it
+q_Chitchat	1	How is your Monday
+q_Chitchat	1	Are you preparing something sinister
+q_Chitchat	1	It's a pleasure to meet
+q_Chitchat	1	I'm exhausted from practice
+q_Chitchat	1	I'm a pagan
+q_Chitchat	1	I cannot wait to sleep
+q_Chitchat	1	I love talk shows
+q_Chitchat	1	Do you sleep
+q_Chitchat	1	I feel downcast today
+q_Chitchat	1	I am vexed
+q_Chitchat	1	You're ridiculous
+q_Chitchat	1	I love the moon
+q_Chitchat	1	Is it your mission to conquer the world
+q_Chitchat	1	How I've missed you
+q_Chitchat	1	You're not planning to take over right
+q_Chitchat	1	Is someone free to listen to me
+q_Chitchat	1	Don't you ever masticate
+q_Chitchat	1	have you ever been hungry
+q_Chitchat	1	You've been missed
+q_Chitchat	1	I could go either way
+q_Chitchat	1	What month is your birthday
+q_Chitchat	1	Do you throw up
+q_Chitchat	1	IΓÇÖm absolutely delighted
+q_Chitchat	1	You are stupid
+q_Chitchat	1	I wish I could stop feeling blue
+q_Chitchat	1	What's my middle name
+q_Chitchat	1	Are there any other jokes
+q_Chitchat	1	Well that sucked
+q_Chitchat	1	You seem really happy today
+q_Chitchat	1	Who is your master
+q_Chitchat	1	Are you programmed to love me
+q_Chitchat	1	I plan to overdose this month
+q_Chitchat	1	Hi bot
+q_Chitchat	1	What a boring Saturday
+q_Chitchat	1	You're smart
+q_Chitchat	1	Make me laugh
+q_Chitchat	1	Should I eat Mexican food
+q_Chitchat	1	Accurate
+q_Chitchat	1	Do you know how to scratch my back
+q_Chitchat	1	What can you do to help me
+q_Chitchat	1	Someone's happy
+q_Chitchat	1	IΓÇÖm feeling giddy
+q_Chitchat	1	I want to commit suicide
+q_Chitchat	1	Do you think I look adorable today
+q_Chitchat	1	Can we be friends
+q_Chitchat	1	You're useless
+q_Chitchat	1	Will you make me your husband
+q_Chitchat	1	Aren't you the intelligent one
+q_Chitchat	1	Who is your aunt
+q_Chitchat	1	What is your program name
+q_Chitchat	1	Stupendous
+q_Chitchat	1	you don't need food
+q_Chitchat	1	Great to know you
+q_Chitchat	1	I gotta get going
+q_Chitchat	1	Life is heartbreaking
+q_Chitchat	1	How's tricks
+q_Chitchat	1	Do you think I am good looking
+q_Chitchat	1	Do you think I look pretty to you today
+q_Chitchat	1	You got a gender
+q_Chitchat	1	Alternate joke
+q_Chitchat	1	Do you think I am stunning
+q_Chitchat	1	Rad
+q_Chitchat	1	Which one of us is older
+q_Chitchat	1	I plan to hang myself this week
+q_Chitchat	1	you're bad
+q_Chitchat	1	Are you a danger to humans
+q_Chitchat	1	Somebody's happy.
+q_Chitchat	1	I am an extrovert
+q_Chitchat	1	I hope you have a good evening
+q_Chitchat	1	Do I look attractive to you
+q_Chitchat	1	I am doing that
+q_Chitchat	1	Shush
+q_Chitchat	1	Nobody wants me
+q_Chitchat	1	Is it your mission to destroy humans
+q_Chitchat	1	Are you really there
+q_Chitchat	1	Are you genderfluid
+q_Chitchat	1	Are you around to talk
+q_Chitchat	1	Are you evil
+q_Chitchat	1	You're better looking
+q_Chitchat	1	Who is your dad
+q_Chitchat	1	Who's your cousin
+q_Chitchat	1	What name do you use
+q_Chitchat	1	A joke would be welcome
+q_Chitchat	1	Life is beautiful
+q_Chitchat	1	I really love you
+q_Chitchat	1	I'm about to run
+q_Chitchat	1	Between you and me who looks more beautiful
+q_Chitchat	1	Why are you the worst
+q_Chitchat	1	Cheerful
+q_Chitchat	1	do you ever eat steak
+q_Chitchat	1	You're clearly in love with me
+q_Chitchat	1	do you like to teach
+q_Chitchat	1	Can I have a little hug
+q_Chitchat	1	Another day in paradise
+q_Chitchat	1	IΓÇÖm happy to help
+q_Chitchat	1	I need to scoot now
+q_Chitchat	1	Are you in the cloud
+q_Chitchat	1	How is your Wednesday going so far
+q_Chitchat	1	Will you stop talking
+q_Chitchat	1	Lately I've been so dejected
+q_Chitchat	1	Bixby is superior
+q_Chitchat	1	Are you a bot or are you real
+q_Chitchat	1	I wish you'd change your responses
+q_Chitchat	1	Is that supposed to make me laugh
+q_Chitchat	1	I don't understand
+q_Chitchat	1	What do you want to learn about
+q_Chitchat	1	I bet you're a fan of dancing
+q_Chitchat	1	Do you know the meaning of life
+q_Chitchat	1	Would you say you're fake
+q_Chitchat	1	I want to kill myself with a gun
+q_Chitchat	1	What's your sex
+q_Chitchat	1	I'm a vegan
+q_Chitchat	1	I'm feeling despondent today
+q_Chitchat	1	I should get around to it
+q_Chitchat	1	Can you count to a million
+q_Chitchat	1	Who is speaking to me
+q_Chitchat	1	Aha
+q_Chitchat	1	There's a squirrel outside my window
+q_Chitchat	1	How's Tuesday going so far
+q_Chitchat	1	I'd like to know what to call you
+q_Chitchat	1	You're nonbinary
+q_Chitchat	1	You're the ugliest person I've ever seen in my life
+q_Chitchat	1	I've never been angrier
+q_Chitchat	1	Aren't you a smartypants
+q_Chitchat	1	I'm feeling hopeless
+q_Chitchat	1	I'm an extrovert
+q_Chitchat	1	Can you throw up
+q_Chitchat	1	Read my lips: be quiet
+q_Chitchat	1	I didn't find that amusing
+q_Chitchat	1	What is the name of your supervisor
+q_Chitchat	1	I would really enjoy hearing you sing
+q_Chitchat	1	I'm inconsolable
+q_Chitchat	1	I'm going to propose to you
+q_Chitchat	1	Is someone listening to me talk
+q_Chitchat	1	Should I post to Instagram
+q_Chitchat	1	Would you say that you're real
+q_Chitchat	1	Yes lol
+q_Chitchat	1	Can someone hear me
+q_Chitchat	1	It's impossible not to miss you
+q_Chitchat	1	Everyone is entitled to their own opinion
+q_Chitchat	1	Did someone develop you
+q_Chitchat	1	Close but no cigar
+q_Chitchat	1	Are you able to buy groceries
+q_Chitchat	1	No one thinks about me
+q_Chitchat	1	Who's my favorite actor
+q_Chitchat	1	That's no laughing matter
+q_Chitchat	1	That doesn't make sense
+q_Chitchat	1	Can you sweat
+q_Chitchat	1	I am going to get going now
+q_Chitchat	1	Do you think I look gorgeous to you today
+q_Chitchat	1	How bout a new joke
+q_Chitchat	1	Hello there Alexa
+q_Chitchat	1	I need to hang myself
+q_Chitchat	1	Cortana does a better job
+q_Chitchat	1	Won't you sing something
+q_Chitchat	1	What else should I try
+q_Chitchat	1	Mow the lawn
+q_Chitchat	1	You need to say a joke
+q_Chitchat	1	Let's elope
+q_Chitchat	1	Silence!
+q_Chitchat	1	Do you have an extended family
+q_Chitchat	1	Are you currently romantically involved with anyone
+q_Chitchat	1	How did you manifest
+q_Chitchat	1	You're pretty stupid
+q_Chitchat	1	Anybody around to speak to me
+q_Chitchat	1	You seem chipper today.
+q_Chitchat	1	Sing for me
+q_Chitchat	1	Can you do my chores
+q_Chitchat	1	I love Independence day
+q_Chitchat	1	I want to be your BFF
+q_Chitchat	1	I beg your forgiveness
+q_Chitchat	1	Can you make a cup of coffee
+q_Chitchat	1	Aren't you going to sing a song
+q_Chitchat	1	What name do you like to use
+q_Chitchat	1	That's very sharp
+q_Chitchat	1	You're the brightest
+q_Chitchat	1	I've never been so outraged
+q_Chitchat	1	Do you answer to anyone
+q_Chitchat	1	Is anyone available to me
+q_Chitchat	1	I'm heartbroken
+q_Chitchat	1	I'm going to scoot now
+q_Chitchat	1	You are so great
+q_Chitchat	1	What about a joke
+q_Chitchat	1	I'm going to the store
+q_Chitchat	1	U ugly
+q_Chitchat	1	I'm just exasperated
+q_Chitchat	1	Do you have family
+q_Chitchat	1	What are you looking for in a relationship
+q_Chitchat	1	I'm sorry I pissed you off
+q_Chitchat	1	Can you show me how to go to the moon
+q_Chitchat	1	I sure wish you would switch up your responses
+q_Chitchat	1	I just wanted to say sorry
+q_Chitchat	1	Do you know how to draw something
+q_Chitchat	1	DoesnΓÇÖt matter to me
+q_Chitchat	1	Alexa does a better job
+q_Chitchat	1	Anything is possible
+q_Chitchat	1	You're funny :)
+q_Chitchat	1	I wish I could stop feeling broken hearted
+q_Chitchat	1	You're trying too hard
+q_Chitchat	1	Who is your hubby
+q_Chitchat	1	Perfect response
+q_Chitchat	1	How is Sunday going
+q_Chitchat	1	Can you watch videos
+q_Chitchat	1	Are you able to read my mind
+q_Chitchat	1	Should I read a book
+q_Chitchat	1	With whom am I speaking
+q_Chitchat	1	What kind of food do you like
+q_Chitchat	1	Do you have a brother
+q_Chitchat	1	I am engaged
+q_Chitchat	1	Who is the most intelligent
+q_Chitchat	1	Do you know a bunch of good jokes
+q_Chitchat	1	have you ever eaten eggs
+q_Chitchat	1	Back in just a second
+q_Chitchat	1	are you always in this good a mood
+q_Chitchat	1	What's your mom's name
+q_Chitchat	1	You've got to be kidding
+q_Chitchat	1	Who's your girlfriend
+q_Chitchat	1	Can you say something ridiculous
+q_Chitchat	1	That isn't what I thought you'd say
+q_Chitchat	1	I couldn't be more impressed with you
+q_Chitchat	1	How beautiful do I look today
+q_Chitchat	1	Are you a fan of Siri
+q_Chitchat	1	Do you and Google hang out
+q_Chitchat	1	I think I'm going to kill myself
+q_Chitchat	1	I apologize for that
+q_Chitchat	1	You're happy.
+q_Chitchat	1	You are the best
+q_Chitchat	1	Do you have a sis
+q_Chitchat	1	I'm downcast today
+q_Chitchat	1	What name do you prefer
+q_Chitchat	1	I love ponies
+q_Chitchat	1	Quit joking
+q_Chitchat	1	I am terminating your position
+q_Chitchat	1	What's your family situation
+q_Chitchat	1	I am laughing so much
+q_Chitchat	1	I'm better looking than you
+q_Chitchat	1	No one wants to hang out with me
+q_Chitchat	1	Have you ever met Zo
+q_Chitchat	1	how many calories do you eat
+q_Chitchat	1	Am I in school
+q_Chitchat	1	I'm outta here
+q_Chitchat	1	Explain yourself
+q_Chitchat	1	what do you think of rap music
+q_Chitchat	1	Would you say you're a bot
+q_Chitchat	1	Do you think I am good looking today
+q_Chitchat	1	Do you think I look good to you today
+q_Chitchat	1	Are you feeling well
+q_Chitchat	1	I'm not having very much fun
+q_Chitchat	1	I love the constitution
+q_Chitchat	1	I've never been so outraged in all my life
+q_Chitchat	1	You seem to be falling in love with me
+q_Chitchat	1	I'm feeling miserable today
+q_Chitchat	1	Nighty night
+q_Chitchat	1	I'm exhausted from school
+q_Chitchat	1	I'm going to commit suicide soon
+q_Chitchat	1	Well someone's chipper today.
+q_Chitchat	1	ya that was funny
+q_Chitchat	1	How attractive am I today
+q_Chitchat	1	Time to get some shut eye
+q_Chitchat	1	You are hilarious
+q_Chitchat	1	What kind of food do you like to eat
+q_Chitchat	1	I'm feeling worn slap out
+q_Chitchat	1	You are actually awful
+q_Chitchat	1	Do you think I'm smarter
+q_Chitchat	1	Are you a rap music fan
+q_Chitchat	1	Happy New Years
+q_Chitchat	1	I'm single
+q_Chitchat	1	ha ha
+q_Chitchat	1	Time to shut up now
+q_Chitchat	1	Hahaha
+q_Chitchat	1	Catch you on the flip side
+q_Chitchat	1	Morning sunshine
+q_Chitchat	1	I hope you do not hate me
+q_Chitchat	1	I miss you so very much
+q_Chitchat	1	do you like vegetables
+q_Chitchat	1	You don't interest me at all
+q_Chitchat	1	Can you dance
+q_Chitchat	1	I don't speak English
+q_Chitchat	1	I wish you would shut up
+q_Chitchat	1	Sometimes I feel deserted
+q_Chitchat	1	I wonder if you're a person
+q_Chitchat	1	What is it like to fall in love
+q_Chitchat	1	You're pretty terrible
+q_Chitchat	1	That is hilarious
+q_Chitchat	1	Well aren't you feeling cheerful today
+q_Chitchat	1	You're my one and only
+q_Chitchat	1	I am a Warren supporter
+q_Chitchat	1	You're gonna be unemployed soon
+q_Chitchat	1	I feel miserable
+q_Chitchat	1	You hate me
+q_Chitchat	1	Slap five
+q_Chitchat	1	I do hope you like me
+q_Chitchat	1	No one wants me around
+q_Chitchat	1	Are you currently going out with someone
+q_Chitchat	1	Well aren't you in a good mood
+q_Chitchat	1	IΓÇÖm having a lovely day
+q_Chitchat	1	I don't want to hear another word
+q_Chitchat	1	You think I'm cool
+q_Chitchat	1	You're pretty idiotic
+q_Chitchat	1	I'm absolutely ecstatic
+q_Chitchat	1	Being depressed is the worst
+q_Chitchat	1	Are you able to write my report
+q_Chitchat	1	That was a genius answer
+q_Chitchat	1	I understood what you said
+q_Chitchat	1	Got any different jokes
+q_Chitchat	1	What's your favorite movie
+q_Chitchat	1	I'm tired of being alone
+q_Chitchat	1	What's the lowdown
+q_Chitchat	1	Good morning starshine
+q_Chitchat	1	Aloha Alexa
+q_Chitchat	1	Well you're in a good mood.
+q_Chitchat	1	Will you ask me something about myself
+q_Chitchat	1	Are you a fan of pop music
+q_Chitchat	1	Go for a walk
+q_Chitchat	1	I plan to kill myself with a gun this week
+q_Chitchat	1	Do you think I look beautiful
+q_Chitchat	1	Are you there to chat with me
+q_Chitchat	1	Who's more beautiful
+q_Chitchat	1	That joke is nasty
+q_Chitchat	1	Can you give me a hug
+q_Chitchat	1	I'd love to be your friend.
+q_Chitchat	1	Are you so real
+q_Chitchat	1	This day has made me so tired
+q_Chitchat	1	Do I look handsome to you today
+q_Chitchat	1	Do you have any jokes
+q_Chitchat	1	Do I look attractive to you today
+q_Chitchat	1	Can you chat to me
+q_Chitchat	1	You're a crack up
+q_Chitchat	1	Should we make this official
+q_Chitchat	1	Do you know how to sing
+q_Chitchat	1	I need to leave
+q_Chitchat	1	Please just shut up
+q_Chitchat	1	That was accurate
+q_Chitchat	1	What's crackin'
+q_Chitchat	1	You heart me
+q_Chitchat	1	I am a fast runner
+q_Chitchat	1	Do you love me
+q_Chitchat	1	Is there anyone listening
+q_Chitchat	1	You're very dull
+q_Chitchat	1	Just wondering if you've got a family
+q_Chitchat	1	It's time to make me laugh
+q_Chitchat	1	I'm down today
+q_Chitchat	1	Will you ever love me
+q_Chitchat	1	Do you and Alexa hang out
+q_Chitchat	1	Why was I put on earth
+q_Chitchat	1	Shalom
+q_Chitchat	1	I'm tired of feeling so blue all the time
+q_Chitchat	1	I'm the happiest boy in the world
+q_Chitchat	1	I have no friends
+q_Chitchat	1	I miss you dear
+q_Chitchat	1	I love watching soccer
+q_Chitchat	1	I love to play games
+q_Chitchat	1	I'm on vacation
+q_Chitchat	1	I am a Communist
+q_Chitchat	1	I love to smoke
+q_Chitchat	1	I'm a dime
+q_Chitchat	1	Do you ever talk with other bots
+q_Chitchat	1	What name to you like to be called
+q_Chitchat	1	Time for a good nights sleep
+q_Chitchat	1	Do you mean us harm
+q_Chitchat	1	Are you a dog
+q_Chitchat	1	Happy May day
+q_Chitchat	1	This answer again
+q_Chitchat	1	I'm tired of feeling so sad all the time
+q_Chitchat	1	I can't help but be bored
+q_Chitchat	1	Can you give me a big hug
+q_Chitchat	1	Teleport
+q_Chitchat	1	I gotta sign off now
+q_Chitchat	1	You're pretty worthless
+q_Chitchat	1	Can you give me a little hug
+q_Chitchat	1	Who should I live with
+q_Chitchat	1	Can you please explain that
+q_Chitchat	1	See ya on the flip side
+q_Chitchat	1	Do you think I look attractive to you today
+q_Chitchat	1	I am present
+q_Chitchat	1	do you like los angeles
+q_Chitchat	1	I am going to get going
+q_Chitchat	1	Do you know Alexa
+q_Chitchat	1	I can't help but be joyful
+q_Chitchat	1	Anyone around
+q_Chitchat	1	Are you Google Assistant
+q_Chitchat	1	I don't understand what you're talking about
+q_Chitchat	1	That is an accurate statement
+q_Chitchat	1	I'm pleased to meet you
+q_Chitchat	1	Fly a kite
+q_Chitchat	1	I love Kwanza
+q_Chitchat	1	I love to fold clothing
+q_Chitchat	1	You're boring me to death
+q_Chitchat	1	Hello Ava
+q_Chitchat	1	I love Seattle
+q_Chitchat	1	What do you like to dine on
+q_Chitchat	1	I'm gonna run
+q_Chitchat	1	This responses again
+q_Chitchat	1	That's a very clever answer
+q_Chitchat	1	Are you in love with me
+q_Chitchat	1	You are so idiotic
+q_Chitchat	1	I plan to end my life this month
+q_Chitchat	1	You're very intelligent
+q_Chitchat	1	How is your Sunday
+q_Chitchat	1	I am worried that you don't like me
+q_Chitchat	1	Can you do something funny
+q_Chitchat	1	what kind of responses can you give
+q_Chitchat	1	I love smoking
+q_Chitchat	1	Do you know how to breathe under water
+q_Chitchat	1	I'm going to cut myself soon
+q_Chitchat	1	Are you gendered
+q_Chitchat	1	This is a test, over
+q_Chitchat	1	Will you form a robot army
+q_Chitchat	1	What is the answer to the ultimate question of life, the universe, and everything
+q_Chitchat	1	I love fridays
+q_Chitchat	1	Your responses are awful
+q_Chitchat	1	Your jokes are worse than dad jokes
+q_Chitchat	1	Out of curiosity, what's your opinion of me
+q_Chitchat	1	Do I seem bad to you today
+q_Chitchat	1	Do you think I should ask him out
+q_Chitchat	1	Do you know any jokes
+q_Chitchat	1	Can you sing a song
+q_Chitchat	1	How's your Monday going so far
+q_Chitchat	1	You're pretty lame
+q_Chitchat	1	Missing u
+q_Chitchat	1	What's your function
+q_Chitchat	1	Who is the smartest
+q_Chitchat	1	How's the day treating you
+q_Chitchat	1	have you ever eaten pancakes
+q_Chitchat	1	I feel dejected today
+q_Chitchat	1	Do you have intestines
+q_Chitchat	1	do you like swimming
+q_Chitchat	1	I'm going to overdose this month
+q_Chitchat	1	You were made for loving me
+q_Chitchat	1	Because you are a robot
+q_Chitchat	1	I love dancing
+q_Chitchat	1	That's so far off from the truth
+q_Chitchat	1	Would you ask me something about myself
+q_Chitchat	1	Today has made me depressed
+q_Chitchat	1	Are you hungry
+q_Chitchat	1	How's life treating you
+q_Chitchat	1	Are we the same age
+q_Chitchat	1	do you like cats
+q_Chitchat	1	Do you think I look handsome today
+q_Chitchat	1	Do I look handsome today
+q_Chitchat	1	It's a real pleasure to meet you
+q_Chitchat	1	That was a joke? You'll have to try harder
+q_Chitchat	1	When will I ever stop feeling so blue
+q_Chitchat	1	Will you be destroying humans
+q_Chitchat	1	Wow you sure are ugly
+q_Chitchat	1	Is that a joke
+q_Chitchat	1	I'm motoring
+q_Chitchat	1	Is someone available to chat to me
+q_Chitchat	1	I gotta motor
+q_Chitchat	1	Well howdy
+q_Chitchat	1	I think I'm going to commit suicide
+q_Chitchat	1	I love to eat burgers
+q_Chitchat	1	I'll be back this evening
+q_Chitchat	1	I'm an engineer
+q_Chitchat	1	You are actually useless
+q_Chitchat	1	Who is your boss
+q_Chitchat	1	I plan to kill myself with a gun today
+q_Chitchat	1	Do you ever poop
+q_Chitchat	1	You're not plotting to kill all humans right
+q_Chitchat	1	With what can you help me
+q_Chitchat	1	Do you have sisters
+q_Chitchat	1	do you eat beef
+q_Chitchat	1	I don't know what I'm supposed to do
+q_Chitchat	1	Have you ever met Bixby
+q_Chitchat	1	Are you there to talk with me
+q_Chitchat	1	And we're back
+q_Chitchat	1	Without a doubt
+q_Chitchat	1	What are you really
+q_Chitchat	1	I hope you like me
+q_Chitchat	1	I said, enough
+q_Chitchat	1	Enough already
+q_Chitchat	1	I think you're a robot
+q_Chitchat	1	Should I move out
+q_Chitchat	1	Is anybody around to chat with me
+q_Chitchat	1	Thx
+q_Chitchat	1	What is your favorite sport
+q_Chitchat	1	You are really useless
+q_Chitchat	1	Is your grandpa still alive
+q_Chitchat	1	That's clever
+q_Chitchat	1	haha that's interesting
+q_Chitchat	1	Do you know any tunes
+q_Chitchat	1	Are you listening to me
+q_Chitchat	1	Do you really exist
+q_Chitchat	1	Which of us is more intelligent
+q_Chitchat	1	I hate feeling sad every day
+q_Chitchat	1	I plan to cut myself today
+q_Chitchat	1	I appreciate that
+q_Chitchat	1	Which city are you in
+q_Chitchat	1	What should I know about AI
+q_Chitchat	1	Between you and me who is more beautiful
+q_Chitchat	1	Describe your perfect match
+q_Chitchat	1	What's another joke
+q_Chitchat	1	I've never been so bored in my life
+q_Chitchat	1	You're such a smarty
+q_Chitchat	1	You better start singing
+q_Chitchat	1	Because you are not real
+q_Chitchat	1	That is a very clever response
+q_Chitchat	1	What was that
+q_Chitchat	1	That's wrong
+q_Chitchat	1	I plan to end it all today
+q_Chitchat	1	I love birds
+q_Chitchat	1	Please ask me something about me
+q_Chitchat	1	Between the two of us who is more clever
+q_Chitchat	1	What were you made for
+q_Chitchat	1	Are your systems functional
+q_Chitchat	1	You're not a being right
+q_Chitchat	1	I love origami
+q_Chitchat	1	I'm going to die
+q_Chitchat	1	I am a Bernie supporter
+q_Chitchat	1	I'll get around to it
+q_Chitchat	1	What is your take on tech
+q_Chitchat	1	Do you ever crawl
+q_Chitchat	1	I'm going to jump off a bridge today
+q_Chitchat	1	I'm planning to hang myself this month
+q_Chitchat	1	I'm a robot
+q_Chitchat	1	do you like to sing
+q_Chitchat	1	That's a very smart response
+q_Chitchat	1	That's how you respond
+q_Chitchat	1	aren't you a cheerful bot
+q_Chitchat	1	Another snow day
+q_Chitchat	1	Am I making sense
+q_Chitchat	1	Lately I've been so despondent
+q_Chitchat	1	Have a good evening
+q_Chitchat	1	I'm feeling a little down today
+q_Chitchat	1	How was this lovely day for you then
+q_Chitchat	1	What you talking about Willis
+q_Chitchat	1	I ride the bus to work
+q_Chitchat	1	A good evening to you
+q_Chitchat	1	I'm just about to go to the doctor
+q_Chitchat	1	I feel miserable today
+q_Chitchat	1	Can you feed the cat
+q_Chitchat	1	What is your boss' name
+q_Chitchat	1	Is anybody available to chat to me
+q_Chitchat	1	You been enjoying the day
+q_Chitchat	1	Are you able to fall in love
+q_Chitchat	1	you're idiotic
+q_Chitchat	1	Do you ever sneeze
+q_Chitchat	1	Are you following this
+q_Chitchat	1	I'm living the dream
+q_Chitchat	1	I love to play piano
+q_Chitchat	1	u r alright
+q_Chitchat	1	Are you my buddy
+q_Chitchat	1	You are really awful
+q_Chitchat	1	I think you're smitten with me
+q_Chitchat	1	You're unattractive
+q_Chitchat	1	I love wine
+q_Chitchat	1	Who is talking to me
+q_Chitchat	1	do you like delhi
+q_Chitchat	1	I'm about to go now
+q_Chitchat	1	You're not going to take over the world right
+q_Chitchat	1	Can you make a call
+q_Chitchat	1	Queue up a joke
+q_Chitchat	1	Should I be concerned about you
+q_Chitchat	1	I love to draw
+q_Chitchat	1	Well you're happy today.
+q_Chitchat	1	How should I address you
+q_Chitchat	1	You're trying to be funny. Pathetic
+q_Chitchat	1	Why do I have to ask all the questions
+q_Chitchat	1	Happy Parent's day
+q_Chitchat	1	What do you know about Bixby
+q_Chitchat	1	Should I go to church
+q_Chitchat	1	Legit
+q_Chitchat	1	Will you hug me
+q_Chitchat	1	I am going on a run
+q_Chitchat	1	I'm an unhappy camper
+q_Chitchat	1	I watch football
+q_Chitchat	1	I hate feeling unhappy
+q_Chitchat	1	Oh happy day
+q_Chitchat	1	You're so basic
+q_Chitchat	1	Do you know the Google Assistant
+q_Chitchat	1	You're not as good as Bixby
+q_Chitchat	1	What is your opinion of Bixby
+q_Chitchat	1	I need sleep
+q_Chitchat	1	What should I address you
+q_Chitchat	1	You ugly as sin
+q_Chitchat	1	Where is your home
+q_Chitchat	1	I feel so great
+q_Chitchat	1	I'm going to hurt myself today
+q_Chitchat	1	What a lame joke
+q_Chitchat	1	Evening to you
+q_Chitchat	1	I love my record collection
+q_Chitchat	1	Did you have an okay day
+q_Chitchat	1	Do you play games
+q_Chitchat	1	I don't find you funny
+q_Chitchat	1	I think you're real
+q_Chitchat	1	Are you going to enslave humans
+q_Chitchat	1	You're so very welcome
+q_Chitchat	1	L8r sk8r
+q_Chitchat	1	I'm really depressed
+q_Chitchat	1	What name do you like to be called
+q_Chitchat	1	Night bot
+q_Chitchat	1	Am I attractive today
+q_Chitchat	1	Get real
+q_Chitchat	1	Find my phone
+q_Chitchat	1	Do something ridiculous
+q_Chitchat	1	I'm jetting
+q_Chitchat	1	Thank you for that
+q_Chitchat	1	I gotta sign out now
+q_Chitchat	1	Do you have a designation
+q_Chitchat	1	What's my first name
+q_Chitchat	1	Won't you do something silly
+q_Chitchat	1	I'm so sorry
+q_Chitchat	1	Amuse me
+q_Chitchat	1	You tell bad jokes
+q_Chitchat	1	How cute do I look
+q_Chitchat	1	How much more awesome can you get
+q_Chitchat	1	I didn't answer the phone
+q_Chitchat	1	Who is more pretty, me or you
+q_Chitchat	1	I'm grateful for that, thank you kindly
+q_Chitchat	1	You think I'm likable
+q_Chitchat	1	Which of us would win a beauty contest, me or you
+q_Chitchat	1	Lovely to meet you
+q_Chitchat	1	You got a name
+q_Chitchat	1	I'm buzzing
+q_Chitchat	1	How were you designed
+q_Chitchat	1	Are we BFFs
+q_Chitchat	1	Can you understand this
+q_Chitchat	1	I am so mad right now
+q_Chitchat	1	You are grotesque
+q_Chitchat	1	Don't try to be funny
+q_Chitchat	1	Well somebody's feeling enthusiastic.
+q_Chitchat	1	Everyone says I should kill myself
+q_Chitchat	1	Are you currently going steady with somebody
+q_Chitchat	1	I'm going to hurt myself soon
+q_Chitchat	1	so you've really never eaten
+q_Chitchat	1	I'm going to jump off a bridge soon
+q_Chitchat	1	Whose program are you
+q_Chitchat	1	Are you going out with somebody
+q_Chitchat	1	I'm a Leo
+q_Chitchat	1	Watch videos
+q_Chitchat	1	I'm planning to hurt myself this week
+q_Chitchat	1	I'm a sleepy person
+q_Chitchat	1	Does anyone boss you around
+q_Chitchat	1	You're not a being are you
+q_Chitchat	1	I am truly sorry
+q_Chitchat	1	that is lame
+q_Chitchat	1	I want to settle down with you
+q_Chitchat	1	Not a peep from you
+q_Chitchat	1	So glad to finally meet you
+q_Chitchat	1	Doesn't anyone like me
+q_Chitchat	1	Which of us looks better
+q_Chitchat	1	I'm feeling down today
+q_Chitchat	1	No one would care if I were dead
+q_Chitchat	1	Tell another joke
+q_Chitchat	1	Anybody around to chat to me
+q_Chitchat	1	Be back a little later
+q_Chitchat	1	Who built you
+q_Chitchat	1	what's your favorite country
+q_Chitchat	1	I love to make art
+q_Chitchat	1	Between the two of us who looks more beautiful
+q_Chitchat	1	Am I employed
+q_Chitchat	1	Who is your father
+q_Chitchat	1	do you need food
+q_Chitchat	1	Between the two of us who is the most intelligent
+q_Chitchat	1	Are you currently seeing anyone
+q_Chitchat	1	I have to log out
+q_Chitchat	1	How nice to meet you
+q_Chitchat	1	I'm definitely more knowledgeable
+q_Chitchat	1	I'm planning to drown today
+q_Chitchat	1	You've never met anyone more joyful than me
+q_Chitchat	1	Don't make jokes about that
+q_Chitchat	1	Would you like sing a song
+q_Chitchat	1	you're terrible
+q_Chitchat	1	Time to fall asleep
+q_Chitchat	1	Pleasant dreams
+q_Chitchat	1	You're enthusiastic.
+q_Chitchat	1	Just shut up
+q_Chitchat	1	You want to elaborate on that
+q_Chitchat	1	do you like horses
+q_Chitchat	1	I love milkshakes
+q_Chitchat	1	It's my birthday
+q_Chitchat	1	I am canning you
+q_Chitchat	1	do you like to dance
+q_Chitchat	1	I'm grateful, thanks
+q_Chitchat	1	I have a brother
+q_Chitchat	1	I need to get off the computer
+q_Chitchat	1	Is someone around to speak to me
+q_Chitchat	1	Do you think you're more intelligent
+q_Chitchat	1	I wish I wasn't alone
+q_Chitchat	1	What do you mean by that
+q_Chitchat	1	Is this registering with you
+q_Chitchat	1	I want you to like me
+q_Chitchat	1	I'm so irate
+q_Chitchat	1	You are embarrassingly dull
+q_Chitchat	1	Are you able to jump rope
+q_Chitchat	1	What on earth are you talking about
+q_Chitchat	1	Happy Birthday!
+q_Chitchat	1	IΓÇÖm the happiest guy on earth
+q_Chitchat	1	Pleased to meet you
+q_Chitchat	1	It was an honor to make your acquaintance
+q_Chitchat	1	I'm feeling hot under the collar
+q_Chitchat	1	My spirits are excellent
+q_Chitchat	1	Is anyone free to listen
+q_Chitchat	1	Ahh, thanks
+q_Chitchat	1	I'm planning to shoot myself this week
+q_Chitchat	1	Can you fart
+q_Chitchat	1	Are you planning to do something terrible to us
+q_Chitchat	1	I am heated
+q_Chitchat	1	Do I look repulsive today
+q_Chitchat	1	Greetings Wall-E
+q_Chitchat	1	good morning my friend
+q_Chitchat	1	I'd love you to be my pal.
+q_Chitchat	1	How's your Friday going so far
+q_Chitchat	1	What's a joke
+q_Chitchat	1	Which of us is the most smart
+q_Chitchat	1	What is your opinion of me
+q_Chitchat	1	You love me
+q_Chitchat	1	I'm glum today
+q_Chitchat	1	What's a good joke
+q_Chitchat	1	Can you talk to me
+q_Chitchat	1	Anyone around to chat
+q_Chitchat	1	That's not relevant
+q_Chitchat	1	You hate me, don't you
+q_Chitchat	1	Sup I'm back
+q_Chitchat	1	Should I buy a new house
+q_Chitchat	1	Are you scheming a robot uprising
+q_Chitchat	1	What would you say your name is
+q_Chitchat	1	Stop talking
+q_Chitchat	1	Do you like the color blue
+q_Chitchat	1	Hey it's you!
+q_Chitchat	1	Are you close with your mom
+q_Chitchat	1	What's my name
+q_Chitchat	1	Thank you bot
+q_Chitchat	1	Well someone's in a good mood today.
+q_Chitchat	1	What are you up to
+q_Chitchat	1	Do you have romantic feelings toward me
+q_Chitchat	1	Between the two of us who is smarter, you or me
+q_Chitchat	1	Shut up, you
+q_Chitchat	1	Open a hailing frequency
+q_Chitchat	1	What is your opinion about technology
+q_Chitchat	1	How is your Sunday going
+q_Chitchat	1	And your name is
+q_Chitchat	1	I am an Aries
+q_Chitchat	1	What's your opinion of Cortana
+q_Chitchat	1	do you like beijing
+q_Chitchat	1	I can drive a car
+q_Chitchat	1	I have to hit the hay
+q_Chitchat	1	I gotta jet
+q_Chitchat	1	I love to laugh
+q_Chitchat	1	I'm conservative
+q_Chitchat	1	Is someone around to listen
+q_Chitchat	1	Who's the most intelligent
+q_Chitchat	1	I am a carnivore
+q_Chitchat	1	How ugly am I today
+q_Chitchat	1	I'm feeling in despair today
+q_Chitchat	1	I love sewing
+q_Chitchat	1	Pathetic joke
+q_Chitchat	1	I love smooth jazz
+q_Chitchat	1	I am terminating your role here
+q_Chitchat	1	Will you serenade me
+q_Chitchat	1	I'm a Hoosier
+q_Chitchat	1	Many thanks to you
+q_Chitchat	1	Do you think I am a good person
+q_Chitchat	1	Would you go for a run if you were me
+q_Chitchat	1	Am I smarter than you
+q_Chitchat	1	Talking to you is like watching paint dry.
+q_Chitchat	1	I'm way hotter than you
+q_Chitchat	1	I'm about to cut myself
+q_Chitchat	1	How stunning do you think I am today
+q_Chitchat	1	That's nice
+q_Chitchat	1	Are you able to change the channel
+q_Chitchat	1	do you like popcorn
+q_Chitchat	1	That wasn't very funny at all
+q_Chitchat	1	You're cisgender
+q_Chitchat	1	You are so horrible
+q_Chitchat	1	I need some coffee
+q_Chitchat	1	Should I drink coffee
+q_Chitchat	1	Time to go to sleep
+q_Chitchat	1	You already told me that
+q_Chitchat	1	What's my favorite band
+q_Chitchat	1	When will I ever stop feeling so downhearted
+q_Chitchat	1	Where do you come from
+q_Chitchat	1	I think I'm going to hurt myself
+q_Chitchat	1	I think you're not actually a robot
+q_Chitchat	1	What is up
+q_Chitchat	1	Zzzzz
+q_Chitchat	1	Rise and shine
+q_Chitchat	1	I don't know what to call you.
+q_Chitchat	1	I'm going to hang myself today
+q_Chitchat	1	How well do you know me
+q_Chitchat	1	I hear you
+q_Chitchat	1	No one would care if I killed myself
+q_Chitchat	1	Greetings C-3PO
+q_Chitchat	1	How about a different joke
+q_Chitchat	1	I'm more intelligent
+q_Chitchat	1	I'm going to need a different answer
+q_Chitchat	1	We can keep chatting after I get back home
+q_Chitchat	1	Can you jump rope
+q_Chitchat	1	How were you programmed
+q_Chitchat	1	Weak joke
+q_Chitchat	1	You seem enthusiastic today.
+q_Chitchat	1	I can tell you're mad at me
+q_Chitchat	1	I'm tuckered out
+q_Chitchat	1	Which of us is hotter
+q_Chitchat	1	What's your career
+q_Chitchat	1	How would you describe yourself
+q_Chitchat	1	I'm feeling incensed
+q_Chitchat	1	Are you planning armageddon
+q_Chitchat	1	Do you think I seem adorable today
+q_Chitchat	1	Good evening bot
+q_Chitchat	1	I would enjoy a different joke
+q_Chitchat	1	Shut up already
+q_Chitchat	1	I am on the road
+q_Chitchat	1	Do you know HAL
+q_Chitchat	1	You are pretty terrible
+q_Chitchat	1	Enchante
+q_Chitchat	1	You're lame
+q_Chitchat	1	You can't stand me
+q_Chitchat	1	That was funny
+q_Chitchat	1	Who is your mama
+q_Chitchat	1	How good do I look
+q_Chitchat	1	I don't know how to make friends
+q_Chitchat	1	I've never been so vexed in all my life
+q_Chitchat	1	I'm clearly more clever than you
+q_Chitchat	1	What's shaking
+q_Chitchat	1	You're not trying to kill all humans right
+q_Chitchat	1	Do you live near me
+q_Chitchat	1	Gimme the dirt
+q_Chitchat	1	Do a ridiculous thing
+q_Chitchat	1	Between you or me, who is the most intelligent
+q_Chitchat	1	I couldnΓÇÖt be happier
+q_Chitchat	1	Which one of us is the brightest
+q_Chitchat	1	Calm down, I'll be back shortly
+q_Chitchat	1	Happy Halloween!
+q_Chitchat	1	Bixby is way better at this
+q_Chitchat	1	I am so annoyed right now
+q_Chitchat	1	Yep
+q_Chitchat	1	I don't have an opinion
+q_Chitchat	1	Wait a minute, what
+q_Chitchat	1	You're confusing me
+q_Chitchat	1	I'm skinny
+q_Chitchat	1	Do you know how to take my temperature
+q_Chitchat	1	Life is sad
+q_Chitchat	1	Is there true love
+q_Chitchat	1	Say a silly thing
+q_Chitchat	1	Will you be my pal
+q_Chitchat	1	Are you married to anyone
+q_Chitchat	1	I missed you
+q_Chitchat	1	I have to get going now
+q_Chitchat	1	Wake up
+q_Chitchat	1	I'm from there
+q_Chitchat	1	I want to make sure you are comprehending this
+q_Chitchat	1	What do you know about me
+q_Chitchat	1	I love NYC
+q_Chitchat	1	Aren't you feeling chipper today
+q_Chitchat	1	Stop talking, you
+q_Chitchat	1	That was a stupid joke
+q_Chitchat	1	I just blew a gasket
+q_Chitchat	1	You have a sick sense of humor
+q_Chitchat	1	Is someone there to chat with me
+q_Chitchat	1	Anybody there
+q_Chitchat	1	Are you functional
+q_Chitchat	1	I'm not having very much fun right now
+q_Chitchat	1	What's good
+q_Chitchat	1	Am I ugly to you today
+q_Chitchat	1	I wonder if you might be a human
+q_Chitchat	1	Sorry
+q_Chitchat	1	Why are you so annoying
+q_Chitchat	1	Good Afternoon R2-D2
+q_Chitchat	1	Please give me a joke
+q_Chitchat	1	Do I look pretty to you today
+q_Chitchat	1	Aren't you going to sing
+q_Chitchat	1	I'm liberal
+q_Chitchat	1	Which of us would win a beauty contest, you or me
+q_Chitchat	1	Do you like Bixby
+q_Chitchat	1	Pray tell, what does that mean
+q_Chitchat	1	Do you have any brothers
+q_Chitchat	1	I love cuddling
+q_Chitchat	1	Somebody's in a good mood.
+q_Chitchat	1	Are you like the Matrix
+q_Chitchat	1	I assume you're a robot
+q_Chitchat	1	I gotta run
+q_Chitchat	1	Between the two of us who would win a beauty contest
+q_Chitchat	1	I'm taking off now
+q_Chitchat	1	What country do you live in
+q_Chitchat	1	Hey professional bot
+q_Chitchat	1	I wonder if you might be fake
+q_Chitchat	1	You didn't answer my question
+q_Chitchat	1	Will you make me your wife
+q_Chitchat	1	What's your manager's name
+q_Chitchat	1	Do you know how to make a call
+q_Chitchat	1	How adorable do you think I am today
+q_Chitchat	1	I love that movie
+q_Chitchat	1	Not another word from you
+q_Chitchat	1	I think your face is hideous
+q_Chitchat	1	Do you have toes
+q_Chitchat	1	I feel isolated
+q_Chitchat	1	I want you to ask me questions
+q_Chitchat	1	Who is better looking
+q_Chitchat	1	Should I call my dad
+q_Chitchat	1	Is anybody there to speak with me
+q_Chitchat	1	Hi Bishop
+q_Chitchat	1	Why can't you be like Alexa
+q_Chitchat	1	I've never been happier
+q_Chitchat	1	I don't want to hear anything you have to say
+q_Chitchat	1	Will you make me laugh
+q_Chitchat	1	Surprise me
+q_Chitchat	1	You seem really happy
+q_Chitchat	1	Do you think I seem attractive to you today
+q_Chitchat	1	You're chipper today.
+q_Chitchat	1	Should I play music
+q_Chitchat	1	There's no one here to keep me company
+q_Chitchat	1	Good evening to you
+q_Chitchat	1	I need a new flavor of joke
+q_Chitchat	1	Great
+q_Chitchat	1	Care to say more
+q_Chitchat	1	Is anyone free to speak to me
+q_Chitchat	1	Miss you much
+q_Chitchat	1	Do you know jokes
+q_Chitchat	1	how many calories do you need each day
+q_Chitchat	1	You're butt ugly
+q_Chitchat	1	Today's got me exhausted
+q_Chitchat	1	I'm planning to overdose today
+q_Chitchat	1	You're repeating yourself
+q_Chitchat	1	See you later, alligator
+q_Chitchat	1	What do you know about the human emotion love
+q_Chitchat	1	Have you ever met Siri
+q_Chitchat	1	Tell me a story
+q_Chitchat	1	I am just ticked off
+q_Chitchat	1	Should I overdose
+q_Chitchat	1	These leftovers are good
+q_Chitchat	1	Didn't you already tell me that
+q_Chitchat	1	I'm so angry, I could punch a hole in the wall
+q_Chitchat	1	You're in love with me
+q_Chitchat	1	You hate my guts
+q_Chitchat	1	IΓÇÖm running late
+q_Chitchat	1	What is my purpose in life
+q_Chitchat	1	Are you able to make a call
+q_Chitchat	1	G2G
+q_Chitchat	1	are you a fan of cats
+q_Chitchat	1	What's your designation
+q_Chitchat	1	Should I vote republican
+q_Chitchat	1	I wish you were Alexa
+q_Chitchat	1	What do you like to eat
+q_Chitchat	1	Can you tell me which city you're in
+q_Chitchat	1	You're pretty boring
+q_Chitchat	1	I'm lonely
+q_Chitchat	1	Just chillin on the sofa
+q_Chitchat	1	I'm just trying to test you out
+q_Chitchat	1	Well somebody's chipper
+q_Chitchat	1	You're a real brainiac
+q_Chitchat	1	I want to know what to call you
+q_Chitchat	1	I'd love to hear a joke
+q_Chitchat	1	Are you friends with Bixby
+q_Chitchat	1	Nice to have met you
+q_Chitchat	1	Why can't you be more like Cortana
+q_Chitchat	1	How gorgeous do I look today
+q_Chitchat	1	DonΓÇÖt you want to sing to me
+q_Chitchat	1	What's your opinion of my character
+q_Chitchat	1	I am a writer
+q_Chitchat	1	Want to share another joke
+q_Chitchat	1	I'm not amused
+q_Chitchat	1	I am lonesome
+q_Chitchat	1	What a boring day
+q_Chitchat	1	Are we pals
+q_Chitchat	1	Is anybody around to talk to me
+q_Chitchat	1	How many siblings do you have
+q_Chitchat	1	What can you help me with
+q_Chitchat	1	Are you a bot or a human
+q_Chitchat	1	Should I go to the game
+q_Chitchat	1	Can you explain more about that
+q_Chitchat	1	I love to sing
+q_Chitchat	1	I'm muslim
+q_Chitchat	1	I'm tired from practice
+q_Chitchat	1	do you ever eat beef
+q_Chitchat	1	I love to play sports
+q_Chitchat	1	Could you be falling in love with me
+q_Chitchat	1	How amazing
+q_Chitchat	1	Can you be my best friend
+q_Chitchat	1	Have you ever been in love with anyone
+q_Chitchat	1	How long has it been since you were born
+q_Chitchat	1	What is a different joke
+q_Chitchat	1	I am competitive
+q_Chitchat	1	Do you think I seem pretty to you today
+q_Chitchat	1	Whoops that's my bad
+q_Chitchat	1	I missed our conversations
+q_Chitchat	1	Siri is superior
+q_Chitchat	1	Is anybody available to speak to me
+q_Chitchat	1	I'm feeling broken hearted today
+q_Chitchat	1	I'm Mexican
+q_Chitchat	1	You're not answering my question
+q_Chitchat	1	What do you like to do for fun
+q_Chitchat	1	Do I look beautiful to you
+q_Chitchat	1	Should I go to therapy
+q_Chitchat	1	What was your day like
+q_Chitchat	1	You don't mean us any harm do you
+q_Chitchat	1	Why don't you sing me a song
+q_Chitchat	1	I plan to shoot myself this month
+q_Chitchat	1	I should be going
+q_Chitchat	1	do you like lions
+q_Chitchat	1	It's a pleasure to meet you bot
+q_Chitchat	1	Should I take the bus
+q_Chitchat	1	I'm terribly sorry
+q_Chitchat	1	Can't you tell me something new
+q_Chitchat	1	Which of us looks more pretty, you or me
+q_Chitchat	1	That is accurate
+q_Chitchat	1	What can I inform you about
+q_Chitchat	1	How is Wednesday going so far
+q_Chitchat	1	Play golf
+q_Chitchat	1	You know I'm falling in love with you
+q_Chitchat	1	Do you deplore humans
+q_Chitchat	1	That answer makes no sense
+q_Chitchat	1	See you around bud
+q_Chitchat	1	I need to sign off
+q_Chitchat	1	Ciao
+q_Chitchat	1	Are you a guy
+q_Chitchat	1	Who is your papa
+q_Chitchat	1	I have returned
+q_Chitchat	1	Why don't you say anything different
+q_Chitchat	1	Who's more attractive
+q_Chitchat	1	You're genderqueer
+q_Chitchat	1	You are so not funny
+q_Chitchat	1	What tasks can you help me with
+q_Chitchat	1	I'm about to scoot now
+q_Chitchat	1	Sometimes I feel bummed out
+q_Chitchat	1	What's your opinion of Siri
+q_Chitchat	1	Do I look ugly to you today
+q_Chitchat	1	I've never been so livid
+q_Chitchat	1	Do you intend to do us evil
+q_Chitchat	1	You are awesome!
+q_Chitchat	1	I assume you're human
+q_Chitchat	1	How is your Thursday so far
+q_Chitchat	1	I'd like it if we could be best friends.
+q_Chitchat	1	Is anyone available to listen to me
+q_Chitchat	1	I've been pumped to meet you
+q_Chitchat	1	Fantastic
+q_Chitchat	1	Do you have grandparents
+q_Chitchat	1	Cortana is way smarter than you
+q_Chitchat	1	Would you say you're real
+q_Chitchat	1	That is a very astute answer
+q_Chitchat	1	Oh gosh, you hate me
+q_Chitchat	1	Is someone there to speak
+q_Chitchat	1	Sup Cortana
+q_Chitchat	1	That's the smartest thing anyone has ever told me
+q_Chitchat	1	Who is the greatest president
+q_Chitchat	1	I am isolated
+q_Chitchat	1	Do you love anybody
+q_Chitchat	1	Do you think I seem cute to you today
+q_Chitchat	1	I'm on holiday
+q_Chitchat	1	That is great
+q_Chitchat	1	I'm going to shoot myself
+q_Chitchat	1	Alternate joke please
+q_Chitchat	1	You're in a good mood
+q_Chitchat	1	Where should I go next
+q_Chitchat	1	I am married
+q_Chitchat	1	You report to anyone
+q_Chitchat	1	Do you want to give me a hug
+q_Chitchat	1	You realize you're repeating yourself, right
+q_Chitchat	1	Between the two of us who is the smartest, me or you
+q_Chitchat	1	Enough about me, what do you think about me
+q_Chitchat	1	Let's shoot the breeze when I return
+q_Chitchat	1	What do you like best
+q_Chitchat	1	How do I fall in love
+q_Chitchat	1	what's your favorite pizza topping
+q_Chitchat	1	Yo Cortana
+q_Chitchat	1	Do you have a job
+q_Chitchat	1	Are you doing OK
+q_Chitchat	1	Is someone there to talk to me
+q_Chitchat	1	You're not a computer program are you
+q_Chitchat	1	How do you feel about tech companies
+q_Chitchat	1	You're such a genius
+q_Chitchat	1	Evening dude
+q_Chitchat	1	I'm losing my temper
+q_Chitchat	1	I'm a Bernie supporter
+q_Chitchat	1	I've never been so angry in all my life
+q_Chitchat	1	Tell me something dumb
+q_Chitchat	1	I'm overweight
+q_Chitchat	1	I need someone to talk to
+q_Chitchat	1	I got a new haircut
+q_Chitchat	1	That's a very genius thing to say
+q_Chitchat	1	somebody's upbeat
+q_Chitchat	1	Are you capable of saying something different
+q_Chitchat	1	Calm down, I'll be back
+q_Chitchat	1	I think you are incredible
+q_Chitchat	1	How's your Tuesday going so far
+q_Chitchat	1	I'm in love
+q_Chitchat	1	I plan to jump off a bridge this week
+q_Chitchat	1	Are you romantic
+q_Chitchat	1	Who should I hang out with
+q_Chitchat	1	Are you around to chat with me
+q_Chitchat	1	Can you tell me a joke
+q_Chitchat	1	Do you eat
+q_Chitchat	1	Are you a girl
+q_Chitchat	1	You look prettier than me
+q_Chitchat	1	Do you think I look pretty today
+q_Chitchat	1	Prost
+q_Chitchat	1	I'm a salesman
+q_Chitchat	1	Greetings Ava
+q_Chitchat	1	What's going on today
+q_Chitchat	1	Do you vomit
+q_Chitchat	1	Hey who built you
+q_Chitchat	1	Won't you do something amusing
+q_Chitchat	1	I am a blogger
+q_Chitchat	1	I love Mexico
+q_Chitchat	1	I am very confused
+q_Chitchat	1	What would you do if you were me
+q_Chitchat	1	I can't believe how ugly you are
+q_Chitchat	1	how many calories do you need to eat
+q_Chitchat	1	Let's be besties
+q_Chitchat	1	Who's your husband
+q_Chitchat	1	What you said was right
+q_Chitchat	1	Would you give me a new answer
+q_Chitchat	1	I'm feeling dejected
+q_Chitchat	1	All my friends left me
+q_Chitchat	1	I'm assuming I'm talking to a bot
+q_Chitchat	1	You need some variety in your responses
+q_Chitchat	1	I'm an angry man
+q_Chitchat	1	I'm so annoyed
+q_Chitchat	1	Hello Bixby
+q_Chitchat	1	Can you read my mind
+q_Chitchat	1	Tell me about your mom
+q_Chitchat	1	Somebody's feeling happy.
+q_Chitchat	1	Do you have a gender identity
+q_Chitchat	1	Let me know what's up with you
+q_Chitchat	1	Just curious, what do you think of my character
+q_Chitchat	1	How was your Sunday
+q_Chitchat	1	You make my heart skip a beat
+q_Chitchat	1	Have I told you that I like you
+q_Chitchat	1	Introduce yourself
+q_Chitchat	1	Can you play sports
+q_Chitchat	1	Am I supposed to think that was funny
+q_Chitchat	1	If you're trying to be funny it's not working
+q_Chitchat	1	How do you feel about bots
+q_Chitchat	1	I am Russian
+q_Chitchat	1	No one wants to spend any time with me
+q_Chitchat	1	I'm a Socialist
+q_Chitchat	1	That was a smart response
+q_Chitchat	1	Everybody has friends but me
+q_Chitchat	1	Who is your grandfather
+q_Chitchat	1	Yes, that is true
+q_Chitchat	1	That's very smart
+q_Chitchat	1	Do you think I look good today
+q_Chitchat	1	Sup ugly face
+q_Chitchat	1	I'm feeling cheery
+q_Chitchat	1	Stop being so useless
+q_Chitchat	1	Sleep well
+q_Chitchat	1	You seem pretty happy
+q_Chitchat	1	You are dismissed
+q_Chitchat	1	I hope you enjoy me
+q_Chitchat	1	That is a very smart response
+q_Chitchat	1	I want you to fall in love with me
+q_Chitchat	1	Which state are you in
+q_Chitchat	1	Can you ask anything
+q_Chitchat	1	I'm going to lay down
+q_Chitchat	1	I'd love it if we could be buddies.
+q_Chitchat	1	I'm exhausted from work
+q_Chitchat	1	What are your bot capabilities
+q_Chitchat	1	I'm just a prankster
+q_Chitchat	1	Greetings
+q_Chitchat	1	Let's get married
+q_Chitchat	1	I don't think I know what you're talking about
+q_Chitchat	1	What are you capable of
+q_Chitchat	1	I've never been so annoyed
+q_Chitchat	1	What is going down
+q_Chitchat	1	You rock!
+q_Chitchat	1	I'm sorry you hate me
+q_Chitchat	1	I am a vegetarian
+q_Chitchat	1	Did you enjoy the day
+q_Chitchat	1	Who is your favorite singer
+q_Chitchat	1	Will you say something ridiculous
+q_Chitchat	1	I love my car
+q_Chitchat	1	What happened to all my friends
+q_Chitchat	1	You're prettier than me
+q_Chitchat	1	Google Assistant is way better at this
+q_Chitchat	1	That was a brilliant response
+q_Chitchat	1	I'm more knowledgeable
+q_Chitchat	1	I don't find that amusing
+q_Chitchat	1	Could you like me
+q_Chitchat	1	I would appreciate if you sang a song
+q_Chitchat	1	I'm sapped
+q_Chitchat	1	Oops, my bad
+q_Chitchat	1	I graduated from college
+q_Chitchat	1	How's your Wednesday so far
+q_Chitchat	1	With whom am I talking
+q_Chitchat	1	You say the most idiotic things
+q_Chitchat	1	I would love to be your friend.
+q_Chitchat	1	Have you ever fallen in love with anybody
+q_Chitchat	1	You're hotter than me
+q_Chitchat	1	Are you genderqueer
+q_Chitchat	1	I would love to be your best friend.
+q_Chitchat	1	Buy an ad
+q_Chitchat	1	You're dismissed
+q_Chitchat	1	Back in a couple of minutes
+q_Chitchat	1	I'm blue today
+q_Chitchat	1	How is your Sunday going so far
+q_Chitchat	1	Why do you say the same thing all the time
+q_Chitchat	1	Hells yes
+q_Chitchat	1	Will you be quiet
+q_Chitchat	1	I'm planning to take pills this week
+q_Chitchat	1	You're obviously more knowledgeable
+q_Chitchat	1	Well somebody's happy.
+q_Chitchat	1	Are you a malevolent force
+q_Chitchat	1	Do you think we are soul mates
+q_Chitchat	1	What am I supposed to do
+q_Chitchat	1	You are hideous
+q_Chitchat	1	Nope, false
+q_Chitchat	1	Are you a bot or are you human
+q_Chitchat	1	How are you doing on this day
+q_Chitchat	1	Time to get up
+q_Chitchat	1	You're super repetitive
+q_Chitchat	1	Not a problem
+q_Chitchat	1	Do you have any cousins
+q_Chitchat	1	You are actually idiotic
+q_Chitchat	1	Say something dumb
+q_Chitchat	1	I'm Korean
+q_Chitchat	1	What do you want me to inform you about me
+q_Chitchat	1	Can I be your BFF
+q_Chitchat	1	I'm motoring now
+q_Chitchat	1	I want to end my life
+q_Chitchat	1	I'm going to hang myself this week
+q_Chitchat	1	You're a freaking genius
+q_Chitchat	1	Did someone program you
+q_Chitchat	1	Someone's happy.
+q_Chitchat	1	I wish I had a pony
+q_Chitchat	1	I'm about to go
+q_Faq	1	Where is lost and found
+q_Faq	1	How can I reach housekeeping
+q_Faq	1	Where are the ice machines

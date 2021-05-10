@@ -1,0 +1,4 @@
+Utterance	Intents
+not even close	l_General, q_Chitchat
+great	l_General, q_Chitchat
+stop talking	l_General, q_Chitchat

@@ -1,0 +1,3 @@
+Utterance	Intents
+fine	l_General, q_Chitchat
+okay	l_General, q_Chitchat

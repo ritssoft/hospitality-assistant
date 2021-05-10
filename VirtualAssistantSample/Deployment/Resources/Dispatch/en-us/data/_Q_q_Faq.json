@@ -1,0 +1,197 @@
+{
+  "qnaDocuments": [
+    {
+      "id": 1,
+      "answer": "Our business center is open 24-hour and located on the first floor.",
+      "source": "custom editorial",
+      "questions": [
+        "Do you have a business center?",
+        "I need to print a boarding pass"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-05-10T05:13:53.404+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 2,
+      "answer": "Please ensure that the water level is above the jets prior to turning jacuzzi on.",
+      "source": "custom editorial",
+      "questions": [
+        "how do I turn on my jaccuzi?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-05-10T05:13:53.404+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 3,
+      "answer": "Scooters and wheelchairs can be reserved in advance through the Bell Desk or requested upon check-in.  Wheelchair rental fees are as follows: standard wheelchair - $15.00/day. Motorized scooter - $40.00/day.  Valid photo ID & credit card required to rent.",
+      "source": "custom editorial",
+      "questions": [
+        "Do you have wheelchairs available?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-05-10T05:13:53.404+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 4,
+      "answer": "If you are experiencing a medical emergency, please dial 911.  We have EMTs on staff if you need medical assistance. Please reach out to the front desk or pick up any house phone and dial 0 for operator.",
+      "source": "custom editorial",
+      "questions": [
+        "I have an emergency"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-05-10T05:13:53.404+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 5,
+      "answer": "Sometimes credit cards, cellphones, as well as magnets, can demagnetize your keys.  Please come to the front desk if you need new keys. Must present valid photo I.D. and be a registered guest on the room.",
+      "source": "custom editorial",
+      "questions": [
+        "Why did my room key stop working?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-05-10T05:13:53.404+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 6,
+      "answer": "We have two ice machines located on each floor for your convenience!  One ice machine is close to the elevator, and the other ice machine is located at the end of the hallway.  A vending machine is also located by the ice machine.",
+      "source": "custom editorial",
+      "questions": [
+        "Where are the ice machines?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-05-10T05:13:53.404+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 7,
+      "answer": "Phone Chargers can be purchased at our gift shop next to our cafe.",
+      "source": "custom editorial",
+      "questions": [
+        "where can I charge my phone?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-05-10T05:13:53.404+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 8,
+      "answer": "I can assist with housekeeping requests. Just let me know what you need and I'll send it right up so that you can get back to having fun!",
+      "source": "custom editorial",
+      "questions": [
+        "How can I reach housekeeping?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-05-10T05:13:53.404+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 9,
+      "answer": "I am happy to extend a complimentary late check-out of 11:30am so that you can have an extra 30 minutes of fun! Late check-outs past 11:30am are subject to a nominal fee and are only available until 2pm. Please reply with MOREFUN and preferred check-out time so that I can inquire about our check-out availability for you.",
+      "source": "custom editorial",
+      "questions": [
+        "Can I get a late check out?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-05-10T05:13:53.404+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 10,
+      "answer": "We do not have any microwaves available on property as an amenity to guests due to fire code regulations. My apologies! If you are hungry, I would suggest ordering from our amazing room service menu that is available 24 hours a day.",
+      "source": "custom editorial",
+      "questions": [
+        "Where is the microwave?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-05-10T05:13:53.404+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 11,
+      "answer": "Oh no! I'm sorry to hear that you misplaced something. Click here to submit a lost & found inquiry: \nhttp://bit.ly/YourHotelLostFound",
+      "source": "custom editorial",
+      "questions": [
+        "Where is lost and found?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-05-10T05:13:53.404+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 12,
+      "answer": "For security purposes, I am unable to provide that information over text. Please visit the front desk and present a valid photo ID to obtain that information. I'm just a text away should you need anything else during your stay. :)",
+      "source": "custom editorial",
+      "questions": [
+        "I forgot my room number"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-05-10T05:13:53.404+00:00",
+      "isDocumentText": false
+    }
+  ]
+}
